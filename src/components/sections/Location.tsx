@@ -14,7 +14,7 @@ export function Location() {
         <SectionHeader
           kicker="Na gjeni"
           title="Lokacioni"
-          subtitle="Punishtja jone ndodhet ne Valias, vetem 500m larg Hallacit te Rruga e Re."
+          subtitle="Punishtja jone ndodhet ne Valias, vetem 1km larg Hallacit te Rruga e Re."
         />
 
         <div className="mt-12 grid gap-6 lg:grid-cols-3">

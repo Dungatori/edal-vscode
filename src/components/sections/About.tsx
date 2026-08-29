@@ -19,9 +19,9 @@ export function About() {
           />
           <p className="mt-6 text-base text-muted-foreground md:text-lg">
             EDAL eshte nje biznes familjar ne Valias qe prej vitesh ofron punime nga
-            duralumini dhe PVC per shtepi, apartamente dhe biznese ne te gjithe zonen
-            e Tiranes dhe Kamzes. Cdo projekt matet, prodhohet dhe montohet nga
-            skuadra jone — pa nenkontraktore, pa surpriza.
+            duralumini dhe PVC per shtepi, apartamente dhe biznese ne te gjithe
+            e zonen e Tiranes dhe Shqiperise. Cdo projekt matet, prodhohet dhe montohet nga
+            skuadra jone.
           </p>
 
           <ul className="mt-8 space-y-3">

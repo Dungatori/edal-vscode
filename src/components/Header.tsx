@@ -14,7 +14,7 @@ export function Header() {
     <header className="sticky top-0 z-50 border-b border-border/60 bg-background/85 backdrop-blur-lg">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 md:px-8">
         <a href="#top" className="flex items-center gap-2">
-          <img src={logo} alt={site.fullName} className="h-9 w-auto" width={816} height={816} />
+          <img src={logo} alt={site.fullName} className="h-20 w-auto md:h-25" width={816} height={816} />
         </a>
         <nav className="hidden items-center gap-8 md:flex">
           {navItems.map((item) => (

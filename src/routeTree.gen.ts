@@ -11,6 +11,8 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as GaleriaIdRouteImport } from './routes/galeria.$id'
+import { Route as GaleriaKategoriaCategoryRouteImport } from './routes/galeria.kategoria.$category'
 
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
@@ -22,31 +24,56 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const GaleriaIdRoute = GaleriaIdRouteImport.update({
+  id: '/galeria/$id',
+  path: '/galeria/$id',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const GaleriaKategoriaCategoryRoute =
+  GaleriaKategoriaCategoryRouteImport.update({
+    id: '/galeria/kategoria/$category',
+    path: '/galeria/kategoria/$category',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/galeria/$id': typeof GaleriaIdRoute
+  '/galeria/kategoria/$category': typeof GaleriaKategoriaCategoryRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/galeria/$id': typeof GaleriaIdRoute
+  '/galeria/kategoria/$category': typeof GaleriaKategoriaCategoryRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/galeria/$id': typeof GaleriaIdRoute
+  '/galeria/kategoria/$category': typeof GaleriaKategoriaCategoryRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/sitemap.xml'
+  fullPaths:
+    '/' | '/sitemap.xml' | '/galeria/$id' | '/galeria/kategoria/$category'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/sitemap.xml'
-  id: '__root__' | '/' | '/sitemap.xml'
+  to: '/' | '/sitemap.xml' | '/galeria/$id' | '/galeria/kategoria/$category'
+  id:
+    | '__root__'
+    | '/'
+    | '/sitemap.xml'
+    | '/galeria/$id'
+    | '/galeria/kategoria/$category'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  GaleriaIdRoute: typeof GaleriaIdRoute
+  GaleriaKategoriaCategoryRoute: typeof GaleriaKategoriaCategoryRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -65,12 +92,28 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/galeria/$id': {
+      id: '/galeria/$id'
+      path: '/galeria/$id'
+      fullPath: '/galeria/$id'
+      preLoaderRoute: typeof GaleriaIdRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/galeria/kategoria/$category': {
+      id: '/galeria/kategoria/$category'
+      path: '/galeria/kategoria/$category'
+      fullPath: '/galeria/kategoria/$category'
+      preLoaderRoute: typeof GaleriaKategoriaCategoryRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  GaleriaIdRoute: GaleriaIdRoute,
+  GaleriaKategoriaCategoryRoute: GaleriaKategoriaCategoryRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
