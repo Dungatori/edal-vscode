@@ -5,7 +5,7 @@
 //   3. Shto nje objekt te ri ne array-in `gallery`.
 
 import pvc from "@/assets/pvc.jpg";
-import pvc0 from "@/assets/pvc0.png";
+import pvc0 from "@/assets/pvc0.jpg";
 import pvc1 from "@/assets/pvc1.jpg";
 import pvc2 from "@/assets/pvc2.jpg";
 import pvc3 from "@/assets/pvc3.jpg";
@@ -23,9 +23,9 @@ import pvc14 from "@/assets/pvc14.jpg";
 import pvc15 from "@/assets/pvc15.jpg";
 import pvc16 from "@/assets/pvc16.jpg";
 
-import duralumin from "@/assets/duralumin.png";
-import duralumin2 from "@/assets/duralumin2.png";
-import duralumi3 from "@/assets/duralumi3.png";
+import duralumin from "@/assets/duralumin.jpg";
+import duralumin2 from "@/assets/duralumin2.jpg";
+import duralumi3 from "@/assets/duralumi3.jpg";
 import pergola from "@/assets/pergola.jpg";
 import pergola1 from "@/assets/pergola1.jpg";
 import pergola2 from "@/assets/pergola2.jpg";
@@ -41,7 +41,7 @@ import pergola16 from "@/assets/pergola16.jpg";
 import pergola17 from "@/assets/pergola17.jpg";
 import pergola18 from "@/assets/pergola18.jpg";
 
-import kabina from "@/assets/kabina.png";
+import kabina from "@/assets/kabina.jpg";
 import kabina1 from "@/assets/kabina1.jpg";
 import kabina2 from "@/assets/kabina2.jpg";
 import kabina3 from "@/assets/kabina3.jpg";
@@ -57,7 +57,7 @@ import kabina23 from "@/assets/kabina23.jpg";
 import kabina24 from "@/assets/kabina24.jpg";
 import kabina25 from "@/assets/kabina25.jpg";
 
-import gijotin from "@/assets/gijotin.png";
+import gijotin from "@/assets/gijotin.jpg";
 import gijotina1 from "@/assets/gijotina1.jpg";  
 import gijotina2 from "@/assets/gijotina2.jpg";
 import gijotina3 from "@/assets/gijotina3.jpg";
@@ -104,7 +104,7 @@ import vetrata13 from "@/assets/vetrata13.jpg";
 import vetrata14 from "@/assets/vetrata14.jpg";
 import vetrata15 from "@/assets/vetrat15.jpg";
 
-import rrethim from "@/assets/rrethim.png";
+import rrethim from "@/assets/rrethim.jpg";
 import rrethim1 from "@/assets/rrethim1.jpg";
 import rrethim2 from "@/assets/rrethim2.jpg";
 import rrethim3 from "@/assets/rrethim3.jpg";
@@ -152,7 +152,7 @@ import streha10 from "@/assets/streha10.jpg";
 import streha11 from "@/assets/streha11.jpg";
 import streha12 from "@/assets/streha12.jpg";
 
-import auto from "@/assets/auto.png";
+import auto from "@/assets/auto.jpg";
 import auto2 from "@/assets/auto2.jpg";
 import auto3 from "@/assets/auto3.jpg";
 import auto4 from "@/assets/auto4.jpg";

@@ -1,11 +1,11 @@
 {
-  "compatibility_date": "2026-07-18",
+  "compatibility_date": "2026-08-29",
   "main": "index.mjs",
   "assets": {
     "binding": "ASSETS",
     "directory": "../public"
   },
-  "name": "tanstack-start-ts",
+  "name": "dungatori-edal-vscode",
   "compatibility_flags": [
     "nodejs_compat"
   ],
