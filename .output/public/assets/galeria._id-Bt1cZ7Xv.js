@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/galeria._id-B_t7L9KL.js","assets/link-sDQV9wD2.js","assets/gallery-D0UuPbKq.js"])))=>i.map(i=>d[i]);
+import{n as e,r as t,t as n}from"./preload-helper-Xi5tXFgJ.js";var r=t(`/galeria/$id`)({head:()=>({meta:[{title:`Produkti — EDAL`},{name:`description`,content:`Detaje produkti nga galeria EDAL.`}]}),component:e(()=>n(()=>import(`./galeria._id-B_t7L9KL.js`),__vite__mapDeps([0,1,2])),`component`)});export{r as t};

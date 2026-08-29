@@ -18,1325 +18,1325 @@ var public_assets_data_default = {
 	"/robots.txt": {
 		"type": "text/plain; charset=utf-8",
 		"etag": "\"17-ZZkCVrbr4BSdjt/K43J0tq8+Qq4\"",
-		"mtime": "2026-08-29T19:36:07.047Z",
+		"mtime": "2026-08-29T19:53:51.134Z",
 		"size": 23,
 		"path": "../public/robots.txt"
 	},
-	"/assets/rrethim9-C2DRQFnp.jpg": {
+	"/assets/vetrata4-iqGJVvL6.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"f280-vu3YZXPzTIjCU51CQBrXvpULC0Y\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 62080,
-		"path": "../public/assets/rrethim9-C2DRQFnp.jpg"
+		"etag": "\"8c85-Pf9x9LOVzVoTN5p1n0CTk9/++HE\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 35973,
+		"path": "../public/assets/vetrata4-iqGJVvL6.jpg"
 	},
-	"/assets/pvc15-BNgiJanx.jpg": {
+	"/assets/tendad8-DiR-UxpC.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"15a5d-gcJBMuHJuIHRJuHYJLTOAptKlCs\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 88669,
-		"path": "../public/assets/pvc15-BNgiJanx.jpg"
+		"etag": "\"13325-z3MDMsbfsZ3g6kLxb9TKOjNNh6c\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 78629,
+		"path": "../public/assets/tendad8-DiR-UxpC.jpg"
 	},
-	"/assets/perde-B9gG56rt.jpg": {
+	"/assets/perde3-BZ0uWZOJ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1ac2f-HrjrS+4nTcnQKH5sqrSijo4GP0U\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 109615,
-		"path": "../public/assets/perde-B9gG56rt.jpg"
+		"etag": "\"e6fa-uJdvNPst3rz/MtYCaKeK00+R8rc\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 59130,
+		"path": "../public/assets/perde3-BZ0uWZOJ.jpg"
 	},
-	"/assets/streha6-D2BZskfi.jpg": {
+	"/assets/grila3-B7zTQ2zw.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"48791-e8wbIAOHBbXwkyZE8JQonsWWJ1I\"",
-		"mtime": "2026-08-29T19:36:05.729Z",
-		"size": 296849,
-		"path": "../public/assets/streha6-D2BZskfi.jpg"
+		"etag": "\"1886f-Ie7S5Xj0x/D6waUwTC8Rg9ZIrSI\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 100463,
+		"path": "../public/assets/grila3-B7zTQ2zw.jpg"
 	},
-	"/assets/grila8-hOhAhf4X.jpg": {
+	"/assets/tendad-BHlJ3xoi.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"7da33-cWfLLQ26fZhff8O3TXBP/8lFmTQ\"",
-		"mtime": "2026-08-29T19:36:05.629Z",
-		"size": 514611,
-		"path": "../public/assets/grila8-hOhAhf4X.jpg"
+		"etag": "\"af10-BjNxxPdCL5tx3CcIOlHH754RmRw\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 44816,
+		"path": "../public/assets/tendad-BHlJ3xoi.jpg"
 	},
-	"/assets/vetrata11-xqkGcwHc.jpg": {
+	"/assets/slide6-BLNzmJUC.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"29836-5Lagr+xcgZjNlJUjPBKOZseHMLw\"",
-		"mtime": "2026-08-29T19:36:05.768Z",
-		"size": 170038,
-		"path": "../public/assets/vetrata11-xqkGcwHc.jpg"
+		"etag": "\"b5cb-2Qj20p0IbdUmusmlqYYPDq3Al6U\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 46539,
+		"path": "../public/assets/slide6-BLNzmJUC.jpg"
 	},
-	"/assets/pvc13-CWm53pQa.jpg": {
+	"/assets/pvc7-Bop027eO.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"31356-qFIxRnu4wqQTH/IUhLLs9w1Wcm8\"",
-		"mtime": "2026-08-29T19:36:05.676Z",
-		"size": 201558,
-		"path": "../public/assets/pvc13-CWm53pQa.jpg"
+		"etag": "\"5edf-Sj3wmcLe/K1gubIK36hGh7wPDkc\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 24287,
+		"path": "../public/assets/pvc7-Bop027eO.jpg"
 	},
-	"/assets/vetrata9-SFbMSp04.jpg": {
+	"/assets/pvc12-CypGqOBJ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2575c-E2gpFAXU5w5GXRMALI6NlJk38fM\"",
-		"mtime": "2026-08-29T19:36:05.782Z",
-		"size": 153436,
-		"path": "../public/assets/vetrata9-SFbMSp04.jpg"
+		"etag": "\"1e912-PqXObmmkbPbgdvlO/ocYqUZ4nVM\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 125202,
+		"path": "../public/assets/pvc12-CypGqOBJ.jpg"
 	},
-	"/assets/rrethim14-BEAV3usm.jpg": {
+	"/assets/auto5-Cq4LaVUQ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2423b0-ZWIguTqV1YghkogS4xT/FIF1Bc8\"",
-		"mtime": "2026-08-29T19:36:05.686Z",
-		"size": 2368432,
-		"path": "../public/assets/rrethim14-BEAV3usm.jpg"
+		"etag": "\"17228-I/8kQvZKXB38tQorAWdxkmtC1nE\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 94760,
+		"path": "../public/assets/auto5-Cq4LaVUQ.jpg"
 	},
-	"/assets/gijotina1-B_UDvZuq.jpg": {
+	"/assets/vetrata11-CKegIvOy.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"5f4b4-LJbxgYxD56PIDR5AcTPJqxrn65w\"",
-		"mtime": "2026-08-29T19:36:05.604Z",
-		"size": 390324,
-		"path": "../public/assets/gijotina1-B_UDvZuq.jpg"
+		"etag": "\"16e90-pB+3n2xJgkY+0g3n9UUrpk00ggI\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 93840,
+		"path": "../public/assets/vetrata11-CKegIvOy.jpg"
 	},
-	"/assets/streha10-D4rJuQHx.jpg": {
+	"/assets/punimexh2-IWxlzoxQ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"458d5-7fK+uCSfVHJuTBFI+VfMts37y9A\"",
-		"mtime": "2026-08-29T19:36:05.720Z",
-		"size": 284885,
-		"path": "../public/assets/streha10-D4rJuQHx.jpg"
+		"etag": "\"f7a2-hr0qB9v3sx3lBzfcQnxXperBRKQ\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 63394,
+		"path": "../public/assets/punimexh2-IWxlzoxQ.jpg"
 	},
-	"/assets/rrethim-D4wnuO8r.png": {
-		"type": "image/png",
-		"etag": "\"21197d-FS+Tvu6c0owY4Zz9adRoxXm8X1U\"",
-		"mtime": "2026-08-29T19:36:05.682Z",
-		"size": 2169213,
-		"path": "../public/assets/rrethim-D4wnuO8r.png"
-	},
-	"/assets/streha5-BHmu4oaP.jpg": {
+	"/assets/tendad1-DT5aWYi0.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1d10-qODf50UMTHZC8ayF5Reg5L2nbdk\"",
-		"mtime": "2026-08-29T19:36:05.729Z",
-		"size": 7440,
-		"path": "../public/assets/streha5-BHmu4oaP.jpg"
+		"etag": "\"eefc-0HCuH8mMmho52Gh7dc5P8FG15Hk\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 61180,
+		"path": "../public/assets/tendad1-DT5aWYi0.jpg"
 	},
-	"/assets/duralumin-CxZArEQB.png": {
-		"type": "image/png",
-		"etag": "\"1c25b2-dPwuM1LMgrxfE0JZ/+9ET5SsPjc\"",
-		"mtime": "2026-08-29T19:36:05.602Z",
-		"size": 1844658,
-		"path": "../public/assets/duralumin-CxZArEQB.png"
-	},
-	"/assets/perde3-T5uQWBRL.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"1d71f-CMjUGv3YlRrMzThsJIJHRWD1O+Q\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 120607,
-		"path": "../public/assets/perde3-T5uQWBRL.jpg"
-	},
-	"/assets/galeria._id-Bcl9gXxE.js": {
+	"/assets/galeria._id-B_t7L9KL.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"1e1-k1vsGYRb9aB/eCEW0zgKrQRBlSU\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 481,
-		"path": "../public/assets/galeria._id-Bcl9gXxE.js"
+		"etag": "\"5b8-bU9T0rkPZFEAEQbQNKdRBHMUFGc\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 1464,
+		"path": "../public/assets/galeria._id-B_t7L9KL.js"
 	},
-	"/assets/streha9-D8PsT_mu.jpg": {
+	"/assets/grila2-BBjBaj7U.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3b88d-NC0bntc8+gyWuf9XI7XMb3cCK90\"",
-		"mtime": "2026-08-29T19:36:05.735Z",
-		"size": 243853,
-		"path": "../public/assets/streha9-D8PsT_mu.jpg"
+		"etag": "\"10584-bgQhAkwelOIp2H9RIl7MtE4NHkc\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 66948,
+		"path": "../public/assets/grila2-BBjBaj7U.jpg"
 	},
-	"/assets/punimexh8-B9Fc2Yik.jpg": {
+	"/assets/kabina21-umJe5QBo.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2827be-4pYwtDspJtpmiami5Zgkhz7LgTc\"",
-		"mtime": "2026-08-29T19:36:05.670Z",
-		"size": 2631614,
-		"path": "../public/assets/punimexh8-B9Fc2Yik.jpg"
+		"etag": "\"121c5-cWXNU+MlglBcNz83Vgd/95alRR4\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 74181,
+		"path": "../public/assets/kabina21-umJe5QBo.jpg"
 	},
-	"/assets/gijotin-BjEuG7xf.png": {
-		"type": "image/png",
-		"etag": "\"156208-zXj9GSxHhkRe/Wgy9xDhZQUUeNU\"",
-		"mtime": "2026-08-29T19:36:05.603Z",
-		"size": 1401352,
-		"path": "../public/assets/gijotin-BjEuG7xf.png"
-	},
-	"/assets/kabina22-C_TzvPSC.jpg": {
+	"/assets/perde4-BVHLPvwY.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2fa9b6-tlz3xvRwFA2ir4+L9ZqeNbZAIv0\"",
-		"mtime": "2026-08-29T19:36:05.632Z",
-		"size": 3123638,
-		"path": "../public/assets/kabina22-C_TzvPSC.jpg"
+		"etag": "\"1720d-ho2QGuETYkrbUwjorXBTiZ9ScBA\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 94733,
+		"path": "../public/assets/perde4-BVHLPvwY.jpg"
 	},
-	"/assets/tendad2-S_4V_PEI.jpg": {
+	"/assets/pvc14-BFEomFBi.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"90bf-hBe+b6ktaZ4IC3ImfjkuxY/oxAI\"",
-		"mtime": "2026-08-29T19:36:05.751Z",
-		"size": 37055,
-		"path": "../public/assets/tendad2-S_4V_PEI.jpg"
+		"etag": "\"1324f-FUxxMgUy5yzm/mG8/hlOckwn5Dg\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 78415,
+		"path": "../public/assets/pvc14-BFEomFBi.jpg"
 	},
-	"/assets/hero-CJExD5T9.jpg": {
+	"/assets/pvc16-Du7M7C9q.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"da70-vGu2wVigEdSQfCwuw1TVruGYIus\"",
-		"mtime": "2026-08-29T19:36:05.630Z",
-		"size": 55920,
-		"path": "../public/assets/hero-CJExD5T9.jpg"
+		"etag": "\"22fd2-texDAwaGcvyp9U4kW9/X95bB+N8\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 143314,
+		"path": "../public/assets/pvc16-Du7M7C9q.jpg"
 	},
-	"/assets/tendad14-BYrgrTo3.jpg": {
+	"/assets/duralumin2-CODvDaoC.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1d7b0e-+nJVUooneXYKbfvB9+DEvgkIc9I\"",
-		"mtime": "2026-08-29T19:36:05.750Z",
-		"size": 1932046,
-		"path": "../public/assets/tendad14-BYrgrTo3.jpg"
+		"etag": "\"f3b1-iMKvE2Aw8s3aXIw6nIonCOrtaL4\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 62385,
+		"path": "../public/assets/duralumin2-CODvDaoC.jpg"
 	},
-	"/assets/vetrata1-CmKrfAST.jpg": {
+	"/assets/gijotin-rCGyshO_.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3e2f0-lQ+lr9320eYBXrz8V8eoGDlzNVk\"",
-		"mtime": "2026-08-29T19:36:05.768Z",
-		"size": 254704,
-		"path": "../public/assets/vetrata1-CmKrfAST.jpg"
+		"etag": "\"1b059-Cf24CA7y4SAzZypgzY2ZEKDUyMo\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 110681,
+		"path": "../public/assets/gijotin-rCGyshO_.jpg"
 	},
-	"/assets/tendad11-KOaKX1ni.jpg": {
+	"/assets/gijotina6-Crzobqrh.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"40cba5-tfIfliRAVjID5gfVf47WZUWq3Ak\"",
-		"mtime": "2026-08-29T19:36:05.737Z",
-		"size": 4246437,
-		"path": "../public/assets/tendad11-KOaKX1ni.jpg"
+		"etag": "\"16f95-XjljA2okGyDqhe30p4AJMCunMuI\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 94101,
+		"path": "../public/assets/gijotina6-Crzobqrh.jpg"
 	},
-	"/assets/punimexh12-BusdTY2F.jpg": {
+	"/assets/gijotina8-DzXw_8Oj.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"240041-gGtgwNRy2mtB+JdrB224qmpwb3w\"",
-		"mtime": "2026-08-29T19:36:05.649Z",
-		"size": 2359361,
-		"path": "../public/assets/punimexh12-BusdTY2F.jpg"
+		"etag": "\"170d2-+BoCksBoMljKjAIwxpT18CsAU58\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 94418,
+		"path": "../public/assets/gijotina8-DzXw_8Oj.jpg"
 	},
-	"/assets/qepen1-r_XReXv2.jpg": {
+	"/assets/streha11-DD2TrRWg.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3577a-5KJ7Lq59ZuqGZb39qGaWRE52w2E\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 219002,
-		"path": "../public/assets/qepen1-r_XReXv2.jpg"
+		"etag": "\"1fe66-Vfz3dOJVrtQ4iCkxawpo6VShpIA\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 130662,
+		"path": "../public/assets/streha11-DD2TrRWg.jpg"
 	},
-	"/assets/kabina21-DJdhuaZf.jpg": {
+	"/assets/grila12-DXQWDKXl.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2f0c52-oID3DHxn9NY7FDDrztJqy9H4uUY\"",
-		"mtime": "2026-08-29T19:36:05.632Z",
-		"size": 3083346,
-		"path": "../public/assets/kabina21-DJdhuaZf.jpg"
+		"etag": "\"2ffee-pyzHEBXOg+3xLPjLmVZH3H2SMPs\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 196590,
+		"path": "../public/assets/grila12-DXQWDKXl.jpg"
 	},
-	"/assets/vetrata2-B5FvWM10.jpg": {
+	"/assets/perde1-1R3c87Vo.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"34789-ONKeHj7IwU8yjSSaDc9WGZ+KJRM\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 214921,
-		"path": "../public/assets/vetrata2-B5FvWM10.jpg"
+		"etag": "\"10144-PyskaYxdMOMq2hn3PBBi/LxX3us\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 65860,
+		"path": "../public/assets/perde1-1R3c87Vo.jpg"
 	},
-	"/assets/auto-ZJQ2bx9j.png": {
-		"type": "image/png",
-		"etag": "\"49002-/LUl5OuqRPYhiACKcHfhirFCv1g\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 299010,
-		"path": "../public/assets/auto-ZJQ2bx9j.png"
+	"/assets/routes-Ba6ZMToi.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"59bb-20qxXlg4PmbdFAhosJYmAeVlCIg\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 22971,
+		"path": "../public/assets/routes-Ba6ZMToi.js"
 	},
-	"/assets/pergola16-Cu_ZfYkm.jpg": {
+	"/assets/grila10-fOSlEiac.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"27761-BcJNNShLLY7ou+Bmq4NXtavZYmE\"",
-		"mtime": "2026-08-29T19:36:05.643Z",
-		"size": 161633,
-		"path": "../public/assets/pergola16-Cu_ZfYkm.jpg"
+		"etag": "\"1d8b8-r5pJpM9YXEME0ssz0QSg9KmcPfk\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 121016,
+		"path": "../public/assets/grila10-fOSlEiac.jpg"
 	},
-	"/assets/punimexh17-B_J-LM8r.jpg": {
+	"/assets/grila5-BDccZQ-m.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"59a370-0oErn55oE2dlu36ufFbO7UecFpI\"",
-		"mtime": "2026-08-29T19:36:05.664Z",
-		"size": 5874544,
-		"path": "../public/assets/punimexh17-B_J-LM8r.jpg"
+		"etag": "\"16a1f-THxjyn5Q+VLuF4T0+QvR9CE8a2I\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 92703,
+		"path": "../public/assets/grila5-BDccZQ-m.jpg"
 	},
-	"/assets/vetrata7-Cx3C62oO.jpg": {
+	"/assets/kabina15-CBjVF-N9.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"17fdd-fyPCGe+YDUF6+an++TZUgsIve3M\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 98269,
-		"path": "../public/assets/vetrata7-Cx3C62oO.jpg"
+		"etag": "\"8c89-p2QOsO0eVpcmu7N+5h2Z8XRJIu4\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 35977,
+		"path": "../public/assets/kabina15-CBjVF-N9.jpg"
 	},
-	"/assets/qepen3-CH-2dtX8.jpg": {
+	"/assets/gijotina3-czcOD5es.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"18cf3e-ifEdlpeCPWybewtWMA59+ekr5gs\"",
-		"mtime": "2026-08-29T19:36:05.678Z",
-		"size": 1625918,
-		"path": "../public/assets/qepen3-CH-2dtX8.jpg"
+		"etag": "\"1b758-y6IVPXxTkldXW+FGp7xFYqkh4ME\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 112472,
+		"path": "../public/assets/gijotina3-czcOD5es.jpg"
 	},
-	"/assets/rrethim5-DQuqyupM.jpg": {
+	"/assets/kabina2-BLv_YITW.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"8049-xRTUdqK9LDK+vAlOW4PxanplNOE\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 32841,
-		"path": "../public/assets/rrethim5-DQuqyupM.jpg"
+		"etag": "\"bdca-2/6jN7c7QtGR2dfeyMsfG4XSr0Y\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 48586,
+		"path": "../public/assets/kabina2-BLv_YITW.jpg"
 	},
-	"/assets/qepen5-CGde1Uuj.jpg": {
+	"/assets/gijotina12-D7j-wmPz.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"25589d-2P0L4/97auVN4KWOcWNLOd9VhZU\"",
-		"mtime": "2026-08-29T19:36:05.679Z",
-		"size": 2447517,
-		"path": "../public/assets/qepen5-CGde1Uuj.jpg"
+		"etag": "\"31409-oKFKLuWaOWR8ZtohT++3VeR5xng\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 201737,
+		"path": "../public/assets/gijotina12-D7j-wmPz.jpg"
 	},
-	"/assets/punimexh5-Db25SS4F.jpg": {
+	"/assets/vetrat15-DknArcbu.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2a28-r7zA8GwuuXK3JlIUNOXjog5K2gY\"",
-		"mtime": "2026-08-29T19:36:05.669Z",
-		"size": 10792,
-		"path": "../public/assets/punimexh5-Db25SS4F.jpg"
+		"etag": "\"219f8-eEO4uC4+tYD9CzTV+KW6GyvXFGY\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 137720,
+		"path": "../public/assets/vetrat15-DknArcbu.jpg"
 	},
-	"/assets/gijotina3-BazCY-C5.jpg": {
+	"/assets/pergola9-Cn9wLURa.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"63e3e-yAPMSr4qZvpAGl6F/xknGRFBObE\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 409150,
-		"path": "../public/assets/gijotina3-BazCY-C5.jpg"
+		"etag": "\"123c4-Vp+YA421sevy8OAgex4MkombT0s\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 74692,
+		"path": "../public/assets/pergola9-Cn9wLURa.jpg"
 	},
-	"/assets/perde1-EALjzPan.jpg": {
+	"/assets/rrethim5-DeN65dKG.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2060e-GnAMEFOfocnQrQrxmtrFtDNNerQ\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 132622,
-		"path": "../public/assets/perde1-EALjzPan.jpg"
+		"etag": "\"7d1e-UabW8HFQ8+iCeVxAICvwS1cgXvw\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 32030,
+		"path": "../public/assets/rrethim5-DeN65dKG.jpg"
 	},
-	"/assets/gijotina13-xdVdJBa_.jpg": {
+	"/assets/grila7-CNrzS-dI.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"5cc431-HXdHc7FMxq6Sw+V4tPox/5qhuN4\"",
-		"mtime": "2026-08-29T19:36:05.611Z",
-		"size": 6079537,
-		"path": "../public/assets/gijotina13-xdVdJBa_.jpg"
+		"etag": "\"1346a-tC4AwvS9KVUmxVpK0vOS++ynjDQ\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 78954,
+		"path": "../public/assets/grila7-CNrzS-dI.jpg"
 	},
-	"/assets/tendad8-DJUphrF_.jpg": {
+	"/assets/duralumin-MpbMj2ys.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"26ff35-ZizBKetHc8kEkDt4z2JM7SZ5X6E\"",
-		"mtime": "2026-08-29T19:36:05.753Z",
-		"size": 2555701,
-		"path": "../public/assets/tendad8-DJUphrF_.jpg"
+		"etag": "\"128c6-6Eg2IGzfCD8Iih5nI+OaRD+JPHA\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 75974,
+		"path": "../public/assets/duralumin-MpbMj2ys.jpg"
 	},
-	"/assets/punimexh11-CfpO4y-A.jpg": {
+	"/assets/pvc5-Bbz4_mse.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2a5c67-OloaDGSJf7ntWPkR4Srl08pb96Q\"",
-		"mtime": "2026-08-29T19:36:05.645Z",
-		"size": 2776167,
-		"path": "../public/assets/punimexh11-CfpO4y-A.jpg"
+		"etag": "\"b6f5-rjMiP6XKvWezYD3/Q4faol5Q1vI\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 46837,
+		"path": "../public/assets/pvc5-Bbz4_mse.jpg"
 	},
-	"/assets/pergola18-CBlKD7lA.jpg": {
+	"/assets/streha3-kMxnqLu2.jpeg": {
 		"type": "image/jpeg",
-		"etag": "\"209774-YX5+vGWoyvgU+P+s2aQvcFhXk9Y\"",
-		"mtime": "2026-08-29T19:36:05.643Z",
-		"size": 2135924,
-		"path": "../public/assets/pergola18-CBlKD7lA.jpg"
+		"etag": "\"114e0-MlT4/Ipnk/d2ebo5dRsShYnJ0m4\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 70880,
+		"path": "../public/assets/streha3-kMxnqLu2.jpeg"
+	},
+	"/assets/kabina3-C1GXb2Lm.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"d25a-YjM8D64F0zbDOuVFOw5/1rWq+Hw\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 53850,
+		"path": "../public/assets/kabina3-C1GXb2Lm.jpg"
+	},
+	"/assets/rrethim4-fi5J9nqM.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"974a-d9x33CrdE//UPActVBeIwq/dooA\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 38730,
+		"path": "../public/assets/rrethim4-fi5J9nqM.jpg"
+	},
+	"/assets/rrethim14-tIKGkYKr.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"1503e-nqj9X+k0lfC04BfyCxi1HUnOE5Q\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 86078,
+		"path": "../public/assets/rrethim14-tIKGkYKr.jpg"
+	},
+	"/assets/rrethim10-BlCOU0ku.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"c2d4-Pb1EEREhH8FKq3mKA/bWumxCGWU\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 49876,
+		"path": "../public/assets/rrethim10-BlCOU0ku.jpg"
+	},
+	"/assets/kabina25-DkOWfuXB.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"2248c-BHuXAdsnOFcnl2zo4B8Xw4KxPI4\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 140428,
+		"path": "../public/assets/kabina25-DkOWfuXB.jpg"
+	},
+	"/assets/gallery-D0UuPbKq.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"46f1-4aHebCP4bEJr8fS4817FOYNeES8\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 18161,
+		"path": "../public/assets/gallery-D0UuPbKq.js"
+	},
+	"/assets/grila8-BiumSE1e.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"18c40-HK7LNWXUbRlyWVcEa0vXylZezXk\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 101440,
+		"path": "../public/assets/grila8-BiumSE1e.jpg"
+	},
+	"/assets/index-CMPg7ZnF.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"4a606-OAQ9Tz9FEaZwPOCyN/sYodV6MNk\"",
+		"mtime": "2026-08-29T19:53:50.839Z",
+		"size": 304646,
+		"path": "../public/assets/index-CMPg7ZnF.js"
+	},
+	"/assets/tendad2-ChRRJCB1.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"8403-nGacCn+gNhm/Pva5cX5cIjfxh0g\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 33795,
+		"path": "../public/assets/tendad2-ChRRJCB1.jpg"
+	},
+	"/assets/galeria.kategoria._category-DQuyMrO9.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"24c-ZflVLsIoUQsTnPD1RlQ67hAM79I\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 588,
+		"path": "../public/assets/galeria.kategoria._category-DQuyMrO9.js"
+	},
+	"/assets/punimexh8-Caqcl6zT.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"22427-u0PxKtzEAovQUgJaJHM3mFlDpLs\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 140327,
+		"path": "../public/assets/punimexh8-Caqcl6zT.jpg"
+	},
+	"/assets/rrethim1-CgsfJM0x.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"aba6-Ja7+I/2YTG7UUHrLs762ImoMyaU\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 43942,
+		"path": "../public/assets/rrethim1-CgsfJM0x.jpg"
+	},
+	"/assets/hero-C_s4r-DH.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"3aad-8g5e01njC4ccrhOlqt9oW022CGM\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 15021,
+		"path": "../public/assets/hero-C_s4r-DH.jpg"
+	},
+	"/assets/pergola13-Dl3QCUMS.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"af63-ZUMzHBFsjmlfD58NBsbz7xKHUig\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 44899,
+		"path": "../public/assets/pergola13-Dl3QCUMS.jpg"
+	},
+	"/assets/vetrata10-s-NoITrJ.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"17eff-cmgmT3OIspW/8hlOoG9jBopwLFE\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 98047,
+		"path": "../public/assets/vetrata10-s-NoITrJ.jpg"
+	},
+	"/assets/kabina8-C1vlSJMo.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"896d-bn9aUEahDJtQWs/bjB5TCKLcAkQ\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 35181,
+		"path": "../public/assets/kabina8-C1vlSJMo.jpg"
 	},
 	"/assets/categories-DU5rfj-7.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"65e-Lmk9skRYgsAdCGyRwE5BHIKOH1w\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
+		"mtime": "2026-08-29T19:53:50.840Z",
 		"size": 1630,
 		"path": "../public/assets/categories-DU5rfj-7.js"
 	},
-	"/assets/rrethim7-D0ymOWtR.jpg": {
+	"/assets/qepen1-BhMLZSZc.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1d086-7s38uQkx07WPGAPsywmGgd4eLS0\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 118918,
-		"path": "../public/assets/rrethim7-D0ymOWtR.jpg"
+		"etag": "\"136b0-FjodbewSw64MWSmfNclJhFVXs5A\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 79536,
+		"path": "../public/assets/qepen1-BhMLZSZc.jpg"
 	},
-	"/assets/punimexh14-DvtDSYxu.jpg": {
+	"/assets/pergola4-B7Wck1fp.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2286c7-xZZq8ijSPl4hF397aeQLs4gCKxU\"",
-		"mtime": "2026-08-29T19:36:05.651Z",
-		"size": 2262727,
-		"path": "../public/assets/punimexh14-DvtDSYxu.jpg"
+		"etag": "\"1eb4c-3jqxrDcwzNcX9w7vkb35TCe9QXA\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 125772,
+		"path": "../public/assets/pergola4-B7Wck1fp.jpg"
 	},
-	"/assets/vetrata8-Bk92gAgR.jpg": {
+	"/assets/kabina17-J5_h_WWg.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"23f99-h2U8mA/RVjv9WEJsRZ30fqGpVOs\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 147353,
-		"path": "../public/assets/vetrata8-Bk92gAgR.jpg"
+		"etag": "\"bd2f-zJX1Li1gkspnJCwBuGCLxtjHrvc\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 48431,
+		"path": "../public/assets/kabina17-J5_h_WWg.jpg"
 	},
-	"/assets/gijotina10-DBCfEtLL.jpg": {
+	"/assets/pvc1-DYrX3AqQ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"20ee2d-BSGEHoRqlooI/RIcVmxRgslJY7k\"",
-		"mtime": "2026-08-29T19:36:05.604Z",
-		"size": 2158125,
-		"path": "../public/assets/gijotina10-DBCfEtLL.jpg"
+		"etag": "\"5f3f-2YSVe0fI9/THwbHGwKEqw8esak4\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 24383,
+		"path": "../public/assets/pvc1-DYrX3AqQ.jpg"
 	},
-	"/assets/gijotina12-BF3H8qkD.jpg": {
+	"/assets/rrethim3-D_oUzDzE.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"60df34-jR/dx/c54YfWFVbUUoLMlu/DBI8\"",
-		"mtime": "2026-08-29T19:36:05.609Z",
-		"size": 6348596,
-		"path": "../public/assets/gijotina12-BF3H8qkD.jpg"
+		"etag": "\"b0d4-ybbS+FM8xuLPK7hDfFygW9doZWA\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 45268,
+		"path": "../public/assets/rrethim3-D_oUzDzE.jpg"
 	},
-	"/assets/pvc12-BQIOeIcd.jpg": {
+	"/assets/duralumi3-CpUA5itL.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3bd24-v3ZkjI+1KhVMNp2W6T/506h4E+8\"",
-		"mtime": "2026-08-29T19:36:05.676Z",
-		"size": 245028,
-		"path": "../public/assets/pvc12-BQIOeIcd.jpg"
+		"etag": "\"1fe49-GUx3EK1ctvsu9w9ZKgsMtu41S8k\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 130633,
+		"path": "../public/assets/duralumi3-CpUA5itL.jpg"
 	},
-	"/assets/pergola-C4l5LmXk.jpg": {
+	"/assets/kabina1-BdFjoyEa.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2dfb1-SkurXtavjVhOxQ+JFplgHxM/fg4\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 188337,
-		"path": "../public/assets/pergola-C4l5LmXk.jpg"
+		"etag": "\"12748-UBfK4PBkJ315rpYJoULVWGqHSWs\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 75592,
+		"path": "../public/assets/kabina1-BdFjoyEa.jpg"
 	},
-	"/assets/rrethim13-CGT1i9AO.jpg": {
+	"/assets/kabina7-BP5jmM0o.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2ab7d3-//S36l96YRUpKymhgxlE/k4dCMQ\"",
-		"mtime": "2026-08-29T19:36:05.683Z",
-		"size": 2799571,
-		"path": "../public/assets/rrethim13-CGT1i9AO.jpg"
+		"etag": "\"781b-nDivBgbJrDY2OTGZeBEJhuqgcCw\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 30747,
+		"path": "../public/assets/kabina7-BP5jmM0o.jpg"
 	},
-	"/assets/qepen-BnXsTyxG.jpg": {
+	"/assets/punimexh15-DLSIuVa6.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3f6cc-E3gdTp6kuqNxtPLg+P/eV4Nws6E\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 259788,
-		"path": "../public/assets/qepen-BnXsTyxG.jpg"
+		"etag": "\"1216d-XXxQrGITX2uNSGZIg5q3uQVFZ9c\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 74093,
+		"path": "../public/assets/punimexh15-DLSIuVa6.jpg"
 	},
-	"/assets/pvc16-S9CmXWNl.jpg": {
+	"/assets/pergola14-BJaYsMwE.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2863c-9QVO9PJ0VnTwBXXDqDy98NbIx6g\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 165436,
-		"path": "../public/assets/pvc16-S9CmXWNl.jpg"
+		"etag": "\"13d45-pOZr9knHcr20fGiKanY5PAwMOHY\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 81221,
+		"path": "../public/assets/pergola14-BJaYsMwE.jpg"
 	},
-	"/assets/grila5-BINLxuwN.jpg": {
+	"/assets/punimexh6-ah1t4cQi.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"29c65-rD7sw1voNSkNh/efObVbTMkotnw\"",
-		"mtime": "2026-08-29T19:36:05.628Z",
-		"size": 171109,
-		"path": "../public/assets/grila5-BINLxuwN.jpg"
+		"etag": "\"10961-tl+JvFY1Ehd0UZPzValTl+Vyvw0\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 67937,
+		"path": "../public/assets/punimexh6-ah1t4cQi.jpg"
 	},
-	"/assets/rrethim11-CjxERhLV.jpg": {
+	"/assets/pvc13-Dn8unDAw.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"14177-8jpfPBwaq7GoDMmJEXXJk3z47js\"",
-		"mtime": "2026-08-29T19:36:05.683Z",
-		"size": 82295,
-		"path": "../public/assets/rrethim11-CjxERhLV.jpg"
+		"etag": "\"2777f-P2uQNBwM8SW+XYjHQxQ/cIAPwJQ\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 161663,
+		"path": "../public/assets/pvc13-Dn8unDAw.jpg"
 	},
-	"/assets/punimexh4-D7QILbaV.jpg": {
+	"/assets/auto-C4vTd18y.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2280-hwcdsFpRnDwiO+cI9ij78r66tqU\"",
-		"mtime": "2026-08-29T19:36:05.669Z",
-		"size": 8832,
-		"path": "../public/assets/punimexh4-D7QILbaV.jpg"
+		"etag": "\"7368-xbdBqrxjcVfhS07Xc/BNp24CohI\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 29544,
+		"path": "../public/assets/auto-C4vTd18y.jpg"
 	},
-	"/assets/rrethim3-DB_cuvgZ.jpg": {
+	"/assets/tendad14-Cvg5JyhX.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"19746-PwihQWZtra1EL6I35D1CK1ouubk\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 104262,
-		"path": "../public/assets/rrethim3-DB_cuvgZ.jpg"
+		"etag": "\"1b6ad-rh6i3jahmnGyS7xqnBsLKDUlFkE\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 112301,
+		"path": "../public/assets/tendad14-Cvg5JyhX.jpg"
 	},
-	"/assets/gijotina6--3wyTW4N.jpg": {
+	"/assets/punimexh12-M5GdgAhN.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"49d3d-M8SO3pTtKP34E3hO3Q8ya3Z0BY8\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 302397,
-		"path": "../public/assets/gijotina6--3wyTW4N.jpg"
+		"etag": "\"1b961-vTfNsKhakIWW7MO4pNStNAk1WQ0\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 112993,
+		"path": "../public/assets/punimexh12-M5GdgAhN.jpg"
 	},
-	"/assets/perde2-FC3HwaEG.jpg": {
+	"/assets/tendad4-CfUuOW3l.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"24501-s+1/Mpvh0S65LL1R1kc/ewii+ZU\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 148737,
-		"path": "../public/assets/perde2-FC3HwaEG.jpg"
+		"etag": "\"b448-WJsHy9Ig72l9I8EkaHKZN9Qx++k\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 46152,
+		"path": "../public/assets/tendad4-CfUuOW3l.jpg"
 	},
-	"/assets/pvc11-8OoTscO6.jpg": {
+	"/assets/punimexh9-96Qnzk7U.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3bf51-+x/04kiMr7bSJWnCHvjYJDyRJI0\"",
-		"mtime": "2026-08-29T19:36:05.676Z",
-		"size": 245585,
-		"path": "../public/assets/pvc11-8OoTscO6.jpg"
+		"etag": "\"2582e-FXDuflIwPr4H5PfuAwUEut30sg0\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 153646,
+		"path": "../public/assets/punimexh9-96Qnzk7U.jpg"
 	},
-	"/assets/slide3-DtYXGv7u.jpg": {
+	"/assets/rrethim6-D3CqqGO7.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"fb2a4-IIuzBTuD2w92fUEyGT5AEkm9RVY\"",
-		"mtime": "2026-08-29T19:36:05.702Z",
-		"size": 1028772,
-		"path": "../public/assets/slide3-DtYXGv7u.jpg"
+		"etag": "\"12138-fVOkHZV+UDX4aoDV34muYulT88k\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 74040,
+		"path": "../public/assets/rrethim6-D3CqqGO7.jpg"
 	},
-	"/assets/tendad13-CpM5dHdE.jpg": {
+	"/assets/auto6-C3LyVkgv.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"44e628-oP84M7cIyY7RpNI/gWK1wxpNXdw\"",
-		"mtime": "2026-08-29T19:36:05.745Z",
-		"size": 4515368,
-		"path": "../public/assets/tendad13-CpM5dHdE.jpg"
+		"etag": "\"7337-HXXETgb5y6nrl+6+XwLrYmhP5iI\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 29495,
+		"path": "../public/assets/auto6-C3LyVkgv.jpg"
 	},
-	"/assets/grila6-CsSIA3Z7.jpg": {
+	"/assets/pergola11-BLMS6Y8W.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2373ee-KCYFknZhuvqel2xy2E+L9Vi1XZs\"",
-		"mtime": "2026-08-29T19:36:05.628Z",
-		"size": 2323438,
-		"path": "../public/assets/grila6-CsSIA3Z7.jpg"
+		"etag": "\"26e23-L91ZmzPpC3HCnWf1WbTR6c3TOyU\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 159267,
+		"path": "../public/assets/pergola11-BLMS6Y8W.jpg"
 	},
-	"/assets/pvc4-DnOgE6Bk.jpg": {
+	"/assets/slide4-DoQHddDh.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1e90a-dIeA/vDBzeWT1/1mYgEnuhJuruQ\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 125194,
-		"path": "../public/assets/pvc4-DnOgE6Bk.jpg"
+		"etag": "\"2749b-i2urNO7ElXd80WQDc23ypiT6GUc\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 160923,
+		"path": "../public/assets/slide4-DoQHddDh.jpg"
 	},
-	"/assets/auto2-BASSjPy-.jpg": {
+	"/assets/slide1-DHQl38aZ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"8b7d-qYUJFKIiVQSYF4hxHMlzaovXOAo\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 35709,
-		"path": "../public/assets/auto2-BASSjPy-.jpg"
+		"etag": "\"217db-vQy4YAPJGvS6zJsnMa05Pw7N2ms\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 137179,
+		"path": "../public/assets/slide1-DHQl38aZ.jpg"
 	},
-	"/assets/auto6-BkPaCIuM.jpg": {
+	"/assets/vetrata6-zqahxuvy.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"12452-yY1IJ3tjSlRvKJAgFpwUCoVfgQk\"",
-		"mtime": "2026-08-29T19:36:05.602Z",
-		"size": 74834,
-		"path": "../public/assets/auto6-BkPaCIuM.jpg"
+		"etag": "\"e144-vbUtxEUkfKscmYLl/yZ+bnxwxEQ\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 57668,
+		"path": "../public/assets/vetrata6-zqahxuvy.jpg"
 	},
-	"/assets/kabina-CY6OPMiS.png": {
-		"type": "image/png",
-		"etag": "\"174edb-LaNELku/gBhU7wmqcT6G/yJ349k\"",
-		"mtime": "2026-08-29T19:36:05.630Z",
-		"size": 1527515,
-		"path": "../public/assets/kabina-CY6OPMiS.png"
-	},
-	"/assets/pvc3-DJzq9np4.jpg": {
+	"/assets/pergola1-BCiuFQft.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"8abd-Z4qU3+PCUEnzC6Jy20E9C9tbqBw\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 35517,
-		"path": "../public/assets/pvc3-DJzq9np4.jpg"
+		"etag": "\"17910-U7JMRvkv6ifwq5DITBYlJjapLYU\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 96528,
+		"path": "../public/assets/pergola1-BCiuFQft.jpg"
 	},
-	"/assets/pvc6-BE7XDaYb.jpg": {
+	"/assets/qepen4-DCUiWQm3.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"fc44-GlOXeX0qsnAQdL+9n1voN8cVjtM\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 64580,
-		"path": "../public/assets/pvc6-BE7XDaYb.jpg"
+		"etag": "\"12fe2-l1pfTojiN8pM7dXP3ez0MgasF9w\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 77794,
+		"path": "../public/assets/qepen4-DCUiWQm3.jpg"
 	},
-	"/assets/pvc5-CW5LLP7H.jpg": {
+	"/assets/pergola17-CIoSzwZv.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"ce9f-BY5JHFcahb8La7KtGgK1jMFzXlI\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 52895,
-		"path": "../public/assets/pvc5-CW5LLP7H.jpg"
+		"etag": "\"204fe-O2+droCFoNCOBzMjhhKdGZYfjyk\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 132350,
+		"path": "../public/assets/pergola17-CIoSzwZv.jpg"
 	},
-	"/assets/qepen4-DfaEMgUe.jpg": {
+	"/assets/kabina-D16Y4XbA.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"18f4eb-RHEid+xTT4Anhv5swbD+edYHsxg\"",
-		"mtime": "2026-08-29T19:36:05.678Z",
-		"size": 1635563,
-		"path": "../public/assets/qepen4-DfaEMgUe.jpg"
+		"etag": "\"1046e-xbxYsrCSNrWa9M0mdiZR11F+K+s\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 66670,
+		"path": "../public/assets/kabina-D16Y4XbA.jpg"
 	},
-	"/assets/gijotina7-BftnQQFH.jpg": {
+	"/assets/kabina20-BfVJU8V6.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"55423-XxoaamZkTDILk1qbQVSOIbh8MCM\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 349219,
-		"path": "../public/assets/gijotina7-BftnQQFH.jpg"
+		"etag": "\"b72b-ZHUPHoRhy71ZELnx6DoMZyc/OKA\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 46891,
+		"path": "../public/assets/kabina20-BfVJU8V6.jpg"
 	},
-	"/assets/kabina15-wutdehfB.jpg": {
+	"/assets/punimexh17-DgrcslOg.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"11ee9-PQh3uEFUi7DGmIRXMUOXJbhbSeM\"",
-		"mtime": "2026-08-29T19:36:05.631Z",
-		"size": 73449,
-		"path": "../public/assets/kabina15-wutdehfB.jpg"
+		"etag": "\"27807-RYKUxfo3Q3e6xrPP1CTRuwjgeAQ\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 161799,
+		"path": "../public/assets/punimexh17-DgrcslOg.jpg"
 	},
-	"/assets/grila3-RXbiEGpY.jpg": {
+	"/assets/pvc15-nIfrREP3.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2c793-Oqg1Hc6txfDbBSPipADHBfVxwNI\"",
-		"mtime": "2026-08-29T19:36:05.628Z",
-		"size": 182163,
-		"path": "../public/assets/grila3-RXbiEGpY.jpg"
+		"etag": "\"12b29-W1U7mnTZsMVVagcmcwIy7L8dEko\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 76585,
+		"path": "../public/assets/pvc15-nIfrREP3.jpg"
 	},
-	"/assets/vetrata13-CFQgwZSB.jpg": {
+	"/assets/tendad10-6ozoPwv1.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"24da2-FXBhmuEyog2ukWvZfXiKYJQSmiQ\"",
-		"mtime": "2026-08-29T19:36:05.769Z",
-		"size": 150946,
-		"path": "../public/assets/vetrata13-CFQgwZSB.jpg"
+		"etag": "\"18728-AfjAgA4D5GOIoP+Ffwa9tLiVT+I\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 100136,
+		"path": "../public/assets/tendad10-6ozoPwv1.jpg"
 	},
-	"/assets/rrethim4-mYaX8nOH.jpg": {
+	"/assets/streha-M69umCxf.jpeg": {
 		"type": "image/jpeg",
-		"etag": "\"9ca8-HJLG9FHc6MiVGyg3dVccHOSnZjY\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 40104,
-		"path": "../public/assets/rrethim4-mYaX8nOH.jpg"
+		"etag": "\"1e7da-kooI99MuB1sjkpKSHFpJme8snKk\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 124890,
+		"path": "../public/assets/streha-M69umCxf.jpeg"
 	},
-	"/assets/pvc7-CRSOzCA6.jpg": {
+	"/assets/gijotina13-C2d2vAQ9.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"bb8d-Zh5u5/rzyH+JM/1cj+r9UUUxZ5k\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 48013,
-		"path": "../public/assets/pvc7-CRSOzCA6.jpg"
+		"etag": "\"29eca-wXA4CAMkGrjBtrztpLaotgn6ajA\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 171722,
+		"path": "../public/assets/gijotina13-C2d2vAQ9.jpg"
 	},
-	"/assets/vetrata4-7OUinOLP.jpg": {
+	"/assets/gijotina7-Bsb94Yi_.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"a0a6-8q/AWgzHfK6Uf3sRaaGu1aHr4zE\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 41126,
-		"path": "../public/assets/vetrata4-7OUinOLP.jpg"
+		"etag": "\"1adbc-A1VCrcR38/SoEmUYZyW8VtOosyU\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 110012,
+		"path": "../public/assets/gijotina7-Bsb94Yi_.jpg"
+	},
+	"/assets/gijotina10-C8taXbOL.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"1d1a7-niVlY3VYPQX4gtZ+g3+oU+beNCc\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 119207,
+		"path": "../public/assets/gijotina10-C8taXbOL.jpg"
+	},
+	"/assets/tendad13-Dcur4ZvC.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"1c356-4x+OzkILkk/MwvQ6aFzYbgngQB0\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 115542,
+		"path": "../public/assets/tendad13-Dcur4ZvC.jpg"
+	},
+	"/assets/grila1-2Wc5F7qA.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"1b926-7d8E9SL19d51+s+ib1MkCj6GQdY\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 112934,
+		"path": "../public/assets/grila1-2Wc5F7qA.jpg"
+	},
+	"/assets/vetrata12-wdUnsYUT.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"20df1-WyKKQdEXKga7vDgaQ9Rl5msZx3Q\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 134641,
+		"path": "../public/assets/vetrata12-wdUnsYUT.jpg"
 	},
 	"/assets/preload-helper-Xi5tXFgJ.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"1839-CBYqikikq1uBY2cx57ZQa6xqyf8\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
+		"mtime": "2026-08-29T19:53:50.840Z",
 		"size": 6201,
 		"path": "../public/assets/preload-helper-Xi5tXFgJ.js"
 	},
-	"/assets/gijotina2-DYR4zeo4.jpg": {
+	"/assets/pergola2-B9aNfsXH.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"4432f-gsx89+Ugu9mo67qNvFkPkI+bzRU\"",
-		"mtime": "2026-08-29T19:36:05.615Z",
-		"size": 279343,
-		"path": "../public/assets/gijotina2-DYR4zeo4.jpg"
+		"etag": "\"211e9-dLfzrP3WpDF+qO0+mhRmfDlyIkg\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 135657,
+		"path": "../public/assets/pergola2-B9aNfsXH.jpg"
 	},
-	"/assets/vetrata5-ByJ7OwCp.jpg": {
+	"/assets/gijotina9-9N0qmuW3.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1c09-XN+4uEFNpiwaZxrCuNKErDSbp8o\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 7177,
-		"path": "../public/assets/vetrata5-ByJ7OwCp.jpg"
+		"etag": "\"1bb28-UjL0oReyiq+NbzqEvwv35F0Moe4\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 113448,
+		"path": "../public/assets/gijotina9-9N0qmuW3.jpg"
 	},
-	"/assets/slide6-BwqZRqA1.jpg": {
+	"/assets/vetrata13-Dox-d8z2.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"edc45-QB/ENJ1aR8/AgsU+Het5tkDXWxY\"",
-		"mtime": "2026-08-29T19:36:05.719Z",
-		"size": 973893,
-		"path": "../public/assets/slide6-BwqZRqA1.jpg"
+		"etag": "\"191be-I2OopAmvtYCpOIC0xlkzkBlLwTA\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 102846,
+		"path": "../public/assets/vetrata13-Dox-d8z2.jpg"
 	},
-	"/assets/grila1-dmRB6AZK.jpg": {
+	"/assets/punimexh16-CmhpIFmF.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"43361-8vrNQbhTOMG3hG3EBibS26SOyMw\"",
-		"mtime": "2026-08-29T19:36:05.618Z",
-		"size": 275297,
-		"path": "../public/assets/grila1-dmRB6AZK.jpg"
+		"etag": "\"14164-ZDlIT/8WfAbbzHZQ/MQFaQVyQDs\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 82276,
+		"path": "../public/assets/punimexh16-CmhpIFmF.jpg"
 	},
-	"/assets/kabina25-MwLMNpEp.jpg": {
+	"/assets/auto4-BmqEwCzk.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"29862e-vAOTHR25RHPhwBYDAGBVal7I+PQ\"",
-		"mtime": "2026-08-29T19:36:05.638Z",
-		"size": 2721326,
-		"path": "../public/assets/kabina25-MwLMNpEp.jpg"
+		"etag": "\"8a67-gu8OXMkKNNWrMu9niFiWt+nfIN4\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 35431,
+		"path": "../public/assets/auto4-BmqEwCzk.jpg"
 	},
-	"/assets/grila11-B-FrzDNw.jpg": {
+	"/assets/pvc9-DpxR-Ibs.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1fbc0b-xZJnXBjxnwcUifJZ/XMWJEDOHV0\"",
-		"mtime": "2026-08-29T19:36:05.619Z",
-		"size": 2079755,
-		"path": "../public/assets/grila11-B-FrzDNw.jpg"
+		"etag": "\"1dbb0-bc6Hp8XHcZDxNGiIaDxhzcCwkpc\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 121776,
+		"path": "../public/assets/pvc9-DpxR-Ibs.jpg"
 	},
-	"/assets/logo-gmGLsnNY.png": {
-		"type": "image/png",
-		"etag": "\"2c048-ijvL29nOQmy1gv7wL/mAL4iiHjg\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 180296,
-		"path": "../public/assets/logo-gmGLsnNY.png"
-	},
-	"/assets/punimexh6-9fNy9Pgm.jpg": {
+	"/assets/tendad12-8E1NJglA.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"4a9f9-q7NCQ0xzBlj9XC/37umhcO0mwHQ\"",
-		"mtime": "2026-08-29T19:36:05.669Z",
-		"size": 305657,
-		"path": "../public/assets/punimexh6-9fNy9Pgm.jpg"
+		"etag": "\"14bf0-KaGCjOScYjLUWk/gw0ka5TVAgFE\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 84976,
+		"path": "../public/assets/tendad12-8E1NJglA.jpg"
 	},
-	"/assets/grila4-DHHj3rJT.jpg": {
+	"/assets/pvc4-DPTne35Z.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"24500-CAtypaAktN3YnrS/DJEa5moV+3Q\"",
-		"mtime": "2026-08-29T19:36:05.628Z",
-		"size": 148736,
-		"path": "../public/assets/grila4-DHHj3rJT.jpg"
+		"etag": "\"19d35-oavfW7Fe1J0/VO2MtvxtNpmNkn8\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 105781,
+		"path": "../public/assets/pvc4-DPTne35Z.jpg"
 	},
-	"/assets/pergola2-BdyV5aZ9.jpg": {
+	"/assets/auto3-p9WkcmG1.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"52f95-r2hGLnrsMGrmbXmPKxhEOzlF6hg\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 339861,
-		"path": "../public/assets/pergola2-BdyV5aZ9.jpg"
+		"etag": "\"b52c-6HiluM/mf9Zb7X3dKhzOaE0psAo\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 46380,
+		"path": "../public/assets/auto3-p9WkcmG1.jpg"
 	},
-	"/assets/tendad12-B-kZhLos.jpg": {
+	"/assets/rrethim-BCeXsYFV.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"455cce-uS2tgGJ8+9Pm5zORDYkwlx2Rd+g\"",
-		"mtime": "2026-08-29T19:36:05.742Z",
-		"size": 4545742,
-		"path": "../public/assets/tendad12-B-kZhLos.jpg"
+		"etag": "\"154a8-CPFcy/JYReqmXKD4lsh5W4/X55s\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 87208,
+		"path": "../public/assets/rrethim-BCeXsYFV.jpg"
 	},
-	"/assets/pvc0-U3BjkzYN.png": {
-		"type": "image/png",
-		"etag": "\"1ebbbc-wsOgplWyGuRZX0VGCL19M22GVI8\"",
-		"mtime": "2026-08-29T19:36:05.675Z",
-		"size": 2014140,
-		"path": "../public/assets/pvc0-U3BjkzYN.png"
-	},
-	"/assets/vetrata14-D6gTDzk2.jpg": {
+	"/assets/vetrata14-DHQ4zRDh.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"7000ee-t1VrL7DtaPLi8cBiC/HVadHQoOQ\"",
-		"mtime": "2026-08-29T19:36:05.769Z",
-		"size": 7340270,
-		"path": "../public/assets/vetrata14-D6gTDzk2.jpg"
+		"etag": "\"324c3-FH9NjJQnG+/7If5gf32k31rkDBg\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 206019,
+		"path": "../public/assets/vetrata14-DHQ4zRDh.jpg"
 	},
-	"/assets/auto4-Du_0UetP.jpg": {
+	"/assets/perde-VEh3LQ6u.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"13bab-NKj8hlQuhyKRZb26oVqGFrFLeRU\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 80811,
-		"path": "../public/assets/auto4-Du_0UetP.jpg"
+		"etag": "\"d81f-ku87iNiA6zPUM3TUmulPkU4Akyk\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 55327,
+		"path": "../public/assets/perde-VEh3LQ6u.jpg"
 	},
-	"/assets/tendad7-CeM8zGZg.jpg": {
+	"/assets/punimexh5-D62TJ7s5.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"28d9ec-+zptz7XwU3cnaQmUTN1Odlj7G3U\"",
-		"mtime": "2026-08-29T19:36:05.751Z",
-		"size": 2677228,
-		"path": "../public/assets/tendad7-CeM8zGZg.jpg"
+		"etag": "\"23f6-JfHXN6JwUuz3j0otgiXuQFjgILU\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 9206,
+		"path": "../public/assets/punimexh5-D62TJ7s5.jpg"
 	},
-	"/assets/pvc-DsBSLRcB.jpg": {
+	"/assets/streha1-CSyn0fnx.jpeg": {
 		"type": "image/jpeg",
-		"etag": "\"1229b-hWJYRYTaqidVkU2bqYLSj8m3IX8\"",
-		"mtime": "2026-08-29T19:36:05.675Z",
-		"size": 74395,
-		"path": "../public/assets/pvc-DsBSLRcB.jpg"
+		"etag": "\"1cc6d-kq2rCORcfjIF55J2BlpJ0O45Uk4\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 117869,
+		"path": "../public/assets/streha1-CSyn0fnx.jpeg"
 	},
-	"/assets/grila7-CIFo4WUC.jpg": {
+	"/assets/vetrata3-CU3NkBuL.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"678e2-RQOjTgUVFQNLjFMQOCcACbFqsvM\"",
-		"mtime": "2026-08-29T19:36:05.629Z",
-		"size": 424162,
-		"path": "../public/assets/grila7-CIFo4WUC.jpg"
+		"etag": "\"ea23-xujUlZexqwiN7aJStJGDOMOMYKs\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 59939,
+		"path": "../public/assets/vetrata3-CU3NkBuL.jpg"
 	},
-	"/assets/duralumin2-2pzBgWWy.png": {
-		"type": "image/png",
-		"etag": "\"165b1b-kR6/TQyvuC/EJoebrM0zted30MI\"",
-		"mtime": "2026-08-29T19:36:05.603Z",
-		"size": 1465115,
-		"path": "../public/assets/duralumin2-2pzBgWWy.png"
-	},
-	"/assets/streha2-B90a31rD.jpeg": {
+	"/assets/rrethim13-KgG2PjnQ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2beda-p0AIECNXl3Jo6HfBy50WI8L60lQ\"",
-		"mtime": "2026-08-29T19:36:05.729Z",
-		"size": 179930,
-		"path": "../public/assets/streha2-B90a31rD.jpeg"
+		"etag": "\"170d3-MJ0DfwUv8xnIy6a3tbXm2MzQBD0\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 94419,
+		"path": "../public/assets/rrethim13-KgG2PjnQ.jpg"
 	},
-	"/assets/slide1-C9_cvJq1.jpg": {
+	"/assets/punimexh10-BLfDEtNp.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"37acb9-pl9fpTTnBhwF8ZkgELzyBjNAv34\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 3648697,
-		"path": "../public/assets/slide1-C9_cvJq1.jpg"
+		"etag": "\"23cd9-ElDg75/Za8OXHtjLfkuNEEqzI10\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 146649,
+		"path": "../public/assets/punimexh10-BLfDEtNp.jpg"
 	},
-	"/assets/grila13-BGPErlLo.jpg": {
+	"/assets/vetrata1-DGcEV-dk.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3b22b2-j000iqGGwimY9QiPlbBHqT3z1o8\"",
-		"mtime": "2026-08-29T19:36:05.625Z",
-		"size": 3875506,
-		"path": "../public/assets/grila13-BGPErlLo.jpg"
+		"etag": "\"19cdf-kDRN/YuMWQPYUIkA2X16xjqcOO8\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 105695,
+		"path": "../public/assets/vetrata1-DGcEV-dk.jpg"
 	},
-	"/assets/streha12-Don8irwy.jpg": {
+	"/assets/pvc-UoQqA5AK.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"28c959-E00csqGNd/fl32T23HSuYrb+yWg\"",
-		"mtime": "2026-08-29T19:36:05.725Z",
-		"size": 2672985,
-		"path": "../public/assets/streha12-Don8irwy.jpg"
+		"etag": "\"9cf5-rNSOCAKJhevW4wLXCzbwjoaBrf4\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 40181,
+		"path": "../public/assets/pvc-UoQqA5AK.jpg"
 	},
-	"/assets/kabina24-DNvIT4HH.jpg": {
+	"/assets/rrethim2-DMFirmOx.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"28fe07-FXZ7j2mJZUNYWXlm8Q5R2LiIawk\"",
-		"mtime": "2026-08-29T19:36:05.637Z",
-		"size": 2686471,
-		"path": "../public/assets/kabina24-DNvIT4HH.jpg"
+		"etag": "\"be76-cqhmI3QEW84sq++x6EBZntimmZE\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 48758,
+		"path": "../public/assets/rrethim2-DMFirmOx.jpg"
 	},
-	"/assets/streha8-BpcppCjv.jpg": {
+	"/assets/auto2-6cmmXVTz.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2ff616-V8PxzGUxxYeTURCHvR2v79+LBuU\"",
-		"mtime": "2026-08-29T19:36:05.733Z",
-		"size": 3143190,
-		"path": "../public/assets/streha8-BpcppCjv.jpg"
+		"etag": "\"7616-MmgFSDFmnMfrl0BAcXQvRzqv+CU\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 30230,
+		"path": "../public/assets/auto2-6cmmXVTz.jpg"
 	},
-	"/assets/slide5-6j2-fbNY.jpg": {
+	"/assets/tendad7-82wzpOq1.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"587158-soVsCMRvRNXnl9McWpI4PcwlnPM\"",
-		"mtime": "2026-08-29T19:36:05.710Z",
-		"size": 5796184,
-		"path": "../public/assets/slide5-6j2-fbNY.jpg"
+		"etag": "\"24f99-zl6nhXgOLid1T+CWCuO2Jn0zzFM\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 151449,
+		"path": "../public/assets/tendad7-82wzpOq1.jpg"
 	},
-	"/assets/gallery-CWYzuPh6.js": {
+	"/assets/qepen2-eJ31v1Ci.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"13f16-jO0kAjrp83H9RhK3u+oHrL6Aw5Y\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 81686,
+		"path": "../public/assets/qepen2-eJ31v1Ci.jpg"
+	},
+	"/assets/punimexh13-DOGKpIPC.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"19976-+oPJJSIxAC1vM2obQgVjO7sXUwo\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 104822,
+		"path": "../public/assets/punimexh13-DOGKpIPC.jpg"
+	},
+	"/assets/grila4-B0l71R1A.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"14312-ZghNTjPNEOb6yZjmLtyTP+TxZKI\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 82706,
+		"path": "../public/assets/grila4-B0l71R1A.jpg"
+	},
+	"/assets/pvc6-TVEvIKFg.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"ddb0-XPYQo918DIB3G0JaYalrK95QiZE\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 56752,
+		"path": "../public/assets/pvc6-TVEvIKFg.jpg"
+	},
+	"/assets/pergola16-DeOzeHr8.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"19d98-CXv3OuB7fid9QmeEf1dXJW3tJkQ\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 105880,
+		"path": "../public/assets/pergola16-DeOzeHr8.jpg"
+	},
+	"/assets/gijotina11-CfjTIEJZ.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"318c2-9OtvxXHTKc9NlJOucjnzKck+wVk\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 202946,
+		"path": "../public/assets/gijotina11-CfjTIEJZ.jpg"
+	},
+	"/assets/slide2-D1bfOIqf.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"21de7-PTqmq5/GbEEcOz7KerSo4hRSqTU\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 138727,
+		"path": "../public/assets/slide2-D1bfOIqf.jpg"
+	},
+	"/assets/tendad3-4bNiu17o.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"d4e3-KDj9CW2XLAWoZgPesexjyH+RHN4\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 54499,
+		"path": "../public/assets/tendad3-4bNiu17o.jpg"
+	},
+	"/assets/galeria.kategoria._category-DgJkL9g1.js": {
 		"type": "text/javascript; charset=utf-8",
-		"etag": "\"46f1-5NC4D2fobhlf5EnDWkzQvRFwNKs\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 18161,
-		"path": "../public/assets/gallery-CWYzuPh6.js"
-	},
-	"/assets/perde4-CFZtcGBb.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"1da0e-C51rryyEyaszXxDY6qcUw/0Q4Jk\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 121358,
-		"path": "../public/assets/perde4-CFZtcGBb.jpg"
-	},
-	"/assets/pvc2-f14Ocbsy.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"b10f-kof91pno5BU4qVQQd3UTYjdO5Yc\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 45327,
-		"path": "../public/assets/pvc2-f14Ocbsy.jpg"
-	},
-	"/assets/punimexh7-mgxrKXT-.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"14a835-ThX9MEDFnDgAm3jmnGW0cZHZzOg\"",
-		"mtime": "2026-08-29T19:36:05.669Z",
-		"size": 1353781,
-		"path": "../public/assets/punimexh7-mgxrKXT-.jpg"
-	},
-	"/assets/galeria.kategoria._category-DB8FsJzD.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"6bd-YplOMj+rJs4HkUWvRkyiVOfBh8g\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
+		"etag": "\"6bd-wI3KCEcrFVj/46VaQ1GICPMJeqk\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
 		"size": 1725,
-		"path": "../public/assets/galeria.kategoria._category-DB8FsJzD.js"
+		"path": "../public/assets/galeria.kategoria._category-DgJkL9g1.js"
 	},
-	"/assets/streha1-_P1b-B9j.jpeg": {
+	"/assets/gijotina1-BagtfO-v.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"36518-GR0xwoR9A0LcQ2y8TjRJu45+D+A\"",
-		"mtime": "2026-08-29T19:36:05.720Z",
-		"size": 222488,
-		"path": "../public/assets/streha1-_P1b-B9j.jpeg"
+		"etag": "\"277cd-K1sPKb5SGfPXoKK5Reb0XIsLFfI\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 161741,
+		"path": "../public/assets/gijotina1-BagtfO-v.jpg"
 	},
-	"/assets/pergola6-DFKdPFk8.jpg": {
+	"/assets/tendad5-7pyCmufZ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1e707-8JhHrqijGDDMgcnckNic+tO6YLo\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 124679,
-		"path": "../public/assets/pergola6-DFKdPFk8.jpg"
+		"etag": "\"101bd-w2SOO/SjLvY2QZ6GIIURbvVyqWc\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 65981,
+		"path": "../public/assets/tendad5-7pyCmufZ.jpg"
 	},
-	"/assets/vetrata3-5Dabx1h7.jpg": {
+	"/assets/gijotina2-CuoiuZB7.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"f48d-sskaHC90oXn870UNwF2HmWT0WNQ\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 62605,
-		"path": "../public/assets/vetrata3-5Dabx1h7.jpg"
+		"etag": "\"2bce0-Ccu1C0CXLqHHASinsVl691NTvdQ\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 179424,
+		"path": "../public/assets/gijotina2-CuoiuZB7.jpg"
 	},
-	"/assets/grila10-CsXn7dOD.jpg": {
+	"/assets/pvc11-CigXYh1r.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1efe29-sbAM6DGaU4wVxPQ1UvPGGfSezX4\"",
-		"mtime": "2026-08-29T19:36:05.618Z",
-		"size": 2031145,
-		"path": "../public/assets/grila10-CsXn7dOD.jpg"
-	},
-	"/assets/slide7-Bskn8U8y.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"31265-d47ITk+Fq63pw0XU6eAmj67l7kM\"",
-		"mtime": "2026-08-29T19:36:05.720Z",
-		"size": 201317,
-		"path": "../public/assets/slide7-Bskn8U8y.jpg"
-	},
-	"/assets/pergola8-D33G_6l1.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"15cce-kxWb7RjJG5B8tTdej8l9cJOZYJs\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 89294,
-		"path": "../public/assets/pergola8-D33G_6l1.jpg"
-	},
-	"/assets/gijotina4-dC5e2LyI.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"18993-vDWYRfSkF8IPQBFT8bvOEx39wl8\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 100755,
-		"path": "../public/assets/gijotina4-dC5e2LyI.jpg"
-	},
-	"/assets/pergola13-BCkjZv00.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"e588e-WYfxnkUNlm789TwZ7AQdgePC42E\"",
-		"mtime": "2026-08-29T19:36:05.642Z",
-		"size": 940174,
-		"path": "../public/assets/pergola13-BCkjZv00.jpg"
-	},
-	"/assets/rrethim1-CZ73E8PX.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"18afa-PRAXMyv6XPcR5BD7FkVxKxLKLPQ\"",
-		"mtime": "2026-08-29T19:36:05.683Z",
-		"size": 101114,
-		"path": "../public/assets/rrethim1-CZ73E8PX.jpg"
-	},
-	"/assets/tendad10-CX0m7Sed.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"22e9b4-lBCeMee9zy0Dwn7L2h07DLIUo7M\"",
-		"mtime": "2026-08-29T19:36:05.736Z",
-		"size": 2288052,
-		"path": "../public/assets/tendad10-CX0m7Sed.jpg"
-	},
-	"/assets/slide2-C0uUA8s_.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"368e90-GPRk/MZm0aUdndeyB8OCF56eKV4\"",
-		"mtime": "2026-08-29T19:36:05.696Z",
-		"size": 3575440,
-		"path": "../public/assets/slide2-C0uUA8s_.jpg"
+		"etag": "\"1ded6-F8esEyRdKFxsvruD8IOxwbGjpPg\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 122582,
+		"path": "../public/assets/pvc11-CigXYh1r.jpg"
 	},
 	"/assets/styles-BavJBDxO.css": {
 		"type": "text/css; charset=utf-8",
 		"etag": "\"13d6c-vlf2h9ZuYCRKPNfc0/iMBuKc9kQ\"",
-		"mtime": "2026-08-29T19:36:05.736Z",
+		"mtime": "2026-08-29T19:53:50.848Z",
 		"size": 81260,
 		"path": "../public/assets/styles-BavJBDxO.css"
 	},
-	"/assets/kabina23-0vwaWdfm.jpg": {
+	"/assets/kabina22-A0DzQeYC.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2528d7-5gx3jK/B4FCX3eqWY3uPg6p3JyE\"",
-		"mtime": "2026-08-29T19:36:05.635Z",
-		"size": 2435287,
-		"path": "../public/assets/kabina23-0vwaWdfm.jpg"
+		"etag": "\"189c3-u09o4YkeGDGuVWIfNe/cI2xE8Kw\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 100803,
+		"path": "../public/assets/kabina22-A0DzQeYC.jpg"
 	},
-	"/assets/vetrat15-RSptstlY.jpg": {
+	"/assets/vetrata7-BRNjMBZK.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"446f9a-AFCqLiKCIR9HaPaINoq525qOArw\"",
-		"mtime": "2026-08-29T19:36:05.760Z",
-		"size": 4485018,
-		"path": "../public/assets/vetrat15-RSptstlY.jpg"
+		"etag": "\"1040c-8tQ8Uqnj0yXwZQpdc/P7MkUHHH8\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 66572,
+		"path": "../public/assets/vetrata7-BRNjMBZK.jpg"
 	},
-	"/assets/pergola9-C0USSNoH.jpg": {
+	"/assets/qepen3-BWh9cAe9.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"30dff-Q7EFsazVtkshRVwAHp9hwBkK+XI\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 200191,
-		"path": "../public/assets/pergola9-C0USSNoH.jpg"
+		"etag": "\"11493-gGt8fY4N4uZBkO447QgvzFLM6Mc\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 70803,
+		"path": "../public/assets/qepen3-BWh9cAe9.jpg"
 	},
-	"/assets/qepen2-CP91tlsD.jpg": {
+	"/assets/pvc2-CgVseZHB.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"73e5a-Sy+inQd3MDPBQ0U3YExZAnPjRuc\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 474714,
-		"path": "../public/assets/qepen2-CP91tlsD.jpg"
+		"etag": "\"9822-vJ0ns96hPABhXWM2/nffMVL9x0c\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 38946,
+		"path": "../public/assets/pvc2-CgVseZHB.jpg"
 	},
-	"/assets/routes-BQmvMyke.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"59bb-qFUX+G1fEAeWP8dRb5DhVlhIHKU\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 22971,
-		"path": "../public/assets/routes-BQmvMyke.js"
-	},
-	"/assets/punimexh16-BwrE4lUz.jpg": {
+	"/assets/gijotina4-_4EepUXn.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"47ab74-JDNO0BT+BwpsbGgPhQiMMNBLfTg\"",
-		"mtime": "2026-08-29T19:36:05.659Z",
-		"size": 4696948,
-		"path": "../public/assets/punimexh16-BwrE4lUz.jpg"
+		"etag": "\"15571-S04CDS2yo+flDvhavJePCqOE7Jw\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 87409,
+		"path": "../public/assets/gijotina4-_4EepUXn.jpg"
 	},
-	"/assets/punimexh15-DGbgIo-S.jpg": {
+	"/assets/streha10-OCREI8YZ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"4b77c0-/78g+bOGNDarNpInebuaF8AiikM\"",
-		"mtime": "2026-08-29T19:36:05.655Z",
-		"size": 4945856,
-		"path": "../public/assets/punimexh15-DGbgIo-S.jpg"
+		"etag": "\"1ca34-HCZc2CSwYL4RUF0FExFYYXuMGxc\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 117300,
+		"path": "../public/assets/streha10-OCREI8YZ.jpg"
 	},
-	"/assets/vetrata10-DhaI_ZE6.jpg": {
+	"/assets/punimexh11-DlkMJ8Ug.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2cb5a-QwJ1AkIj6G5OsGxNQS9hBjV7S1A\"",
-		"mtime": "2026-08-29T19:36:05.768Z",
-		"size": 183130,
-		"path": "../public/assets/vetrata10-DhaI_ZE6.jpg"
+		"etag": "\"21fcb-VJBM5QslEkYm6d6EO+CcnpegGH0\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 139211,
+		"path": "../public/assets/punimexh11-DlkMJ8Ug.jpg"
 	},
-	"/assets/pvc8-DN-UQEgQ.jpg": {
+	"/assets/tendad11-WHTKRuZ4.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3745f-JQVz8quoHi7xoZEwPz6ZyMPyty4\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 226399,
-		"path": "../public/assets/pvc8-DN-UQEgQ.jpg"
+		"etag": "\"17a55-wZoOduSfSmBQWP9sYNiZM6nGscE\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 96853,
+		"path": "../public/assets/tendad11-WHTKRuZ4.jpg"
 	},
-	"/assets/pergola4-OoSCjwCR.jpg": {
+	"/assets/punimexh7-wtw5a4dv.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"4b954-r5RWerarx7oKCfb2xB0iJPZkpY8\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 309588,
-		"path": "../public/assets/pergola4-OoSCjwCR.jpg"
+		"etag": "\"10ada-buEV4HGfVuzBn825od4tUFUh7pM\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 68314,
+		"path": "../public/assets/punimexh7-wtw5a4dv.jpg"
 	},
-	"/assets/kabina17-d7H_3MB8.jpg": {
+	"/assets/rrethim7-Cg6kuBGm.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"18eb5-Ladh3uLm8Q3pVYTHFHkctsOyIzI\"",
-		"mtime": "2026-08-29T19:36:05.631Z",
-		"size": 102069,
-		"path": "../public/assets/kabina17-d7H_3MB8.jpg"
+		"etag": "\"ceca-1N2hpLiqnaOThX6YvAvdXp0E9dA\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 52938,
+		"path": "../public/assets/rrethim7-Cg6kuBGm.jpg"
 	},
-	"/assets/gijotina9-CEmiwv0b.jpg": {
+	"/assets/kabina5-CMw8tVC0.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"20d1c5-1VWJFWTt89BDPwoBqeVmLrwthL8\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 2150853,
-		"path": "../public/assets/gijotina9-CEmiwv0b.jpg"
+		"etag": "\"a3a9-OCFGuhcAwnkciHzFUtMJflXc5Nw\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 41897,
+		"path": "../public/assets/kabina5-CMw8tVC0.jpg"
 	},
-	"/assets/tendad6-DO_PgVMi.jpg": {
+	"/assets/slide7-BRVXGxul.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"12a48-E3bHToGua20o5x+QV2UMpkTqJp4\"",
-		"mtime": "2026-08-29T19:36:05.751Z",
-		"size": 76360,
-		"path": "../public/assets/tendad6-DO_PgVMi.jpg"
+		"etag": "\"26654-lJ2Xyi3xXXcH2diMUlMa/I56KNc\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 157268,
+		"path": "../public/assets/slide7-BRVXGxul.jpg"
 	},
-	"/assets/rrethim8-SJe9aFJQ.jpg": {
+	"/assets/vetrata2-D51Kt3BF.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"11779-BkgIu7dppxY6PihuRfVIp4uQ17U\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 71545,
-		"path": "../public/assets/rrethim8-SJe9aFJQ.jpg"
+		"etag": "\"162ec-vr5BtkJpsAyEPsLQR4dR0TAiIQQ\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 90860,
+		"path": "../public/assets/vetrata2-D51Kt3BF.jpg"
 	},
-	"/assets/kabina3-BqCZo5TA.jpg": {
+	"/assets/rrethim9-CGrJsmFW.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"d126-Ba3x1Dc+MkZ7POC/C7V2OT2DHf0\"",
-		"mtime": "2026-08-29T19:36:05.640Z",
-		"size": 53542,
-		"path": "../public/assets/kabina3-BqCZo5TA.jpg"
+		"etag": "\"e85a-9hZRvoDQo1xvCnOwQkl1BAhicnk\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 59482,
+		"path": "../public/assets/rrethim9-CGrJsmFW.jpg"
 	},
-	"/assets/galeria.kategoria._category-C0Uyw02W.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"24c-n9B9pkCEobo5JNFrykgH1H8dIK8\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 588,
-		"path": "../public/assets/galeria.kategoria._category-C0Uyw02W.js"
-	},
-	"/assets/streha11-DR5HheG2.jpg": {
+	"/assets/streha8-C4DOeo-B.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"444273-RFO9Xa+EYIWsQlR98nBahX8g0Wo\"",
-		"mtime": "2026-08-29T19:36:05.721Z",
-		"size": 4473459,
-		"path": "../public/assets/streha11-DR5HheG2.jpg"
+		"etag": "\"233ba-TIz8hDuz1xFG0ZPMAG8JJ7HjQgQ\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 144314,
+		"path": "../public/assets/streha8-C4DOeo-B.jpg"
 	},
-	"/assets/gijotina8-Bl5daL_A.jpg": {
+	"/assets/pergola3-C7vzDFMz.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"49e13-fi2AZhdZUVhnvrFl5NIYYG4qyq0\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 302611,
-		"path": "../public/assets/gijotina8-Bl5daL_A.jpg"
+		"etag": "\"2760e-7j+ZgO57nYz9+Jb7InsARyrBvmo\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 161294,
+		"path": "../public/assets/pergola3-C7vzDFMz.jpg"
 	},
-	"/assets/pergola11-DRcdkkiy.jpg": {
+	"/assets/pergola8-CY50qVkg.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"29cc60-oa2Uxg10YrcoAdTQrosOToT2p7w\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 2739296,
-		"path": "../public/assets/pergola11-DRcdkkiy.jpg"
+		"etag": "\"14a8e-9DU6SutYsopSU0nERTRMcBjys7s\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 84622,
+		"path": "../public/assets/pergola8-CY50qVkg.jpg"
 	},
-	"/assets/pvc9-0jRaSZD7.jpg": {
+	"/assets/streha4-BG_ci3L1.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3b4ec-aaA6KJnezHTmII3oeTc00VAyWNo\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 242924,
-		"path": "../public/assets/pvc9-0jRaSZD7.jpg"
+		"etag": "\"1ecb-9DPuMg/dSfLw+ojLEHiVCtQsKKU\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 7883,
+		"path": "../public/assets/streha4-BG_ci3L1.jpg"
 	},
-	"/assets/pergola14-Dl6AVFR8.jpg": {
+	"/assets/pergola-E4KGDqXQ.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2af24-TGlHjzbr1z3tQ8znoLOcIbeXV1M\"",
-		"mtime": "2026-08-29T19:36:05.643Z",
-		"size": 175908,
-		"path": "../public/assets/pergola14-Dl6AVFR8.jpg"
+		"etag": "\"11ab9-/UEudbIB4lBhLJ+CNcvW7X9NowM\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 72377,
+		"path": "../public/assets/pergola-E4KGDqXQ.jpg"
 	},
-	"/assets/kabina20-BOHqG55a.jpg": {
+	"/assets/pvc0-Cej4Jg1F.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"dc745-9DmwolMDJcrWPqVOduGM8zEakQ0\"",
-		"mtime": "2026-08-29T19:36:05.631Z",
-		"size": 902981,
-		"path": "../public/assets/kabina20-BOHqG55a.jpg"
+		"etag": "\"17cca-G0ooqXrlLp9iX+O2gcp2rqsIAGg\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 97482,
+		"path": "../public/assets/pvc0-Cej4Jg1F.jpg"
 	},
-	"/assets/kabina8-DLMw3Stn.jpg": {
+	"/assets/pvc8-HzZWRs98.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"7a8c6-oFZtRTjQ5oxxWsNdcdcpF/MVNp8\"",
-		"mtime": "2026-08-29T19:36:05.640Z",
-		"size": 501958,
-		"path": "../public/assets/kabina8-DLMw3Stn.jpg"
+		"etag": "\"1c911-R1Ysc8OI1tXR/rGhefVhuBEVVsI\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 117009,
+		"path": "../public/assets/pvc8-HzZWRs98.jpg"
 	},
-	"/assets/streha4-B8xTmPXQ.jpg": {
+	"/assets/tendad6-BZcNA1T7.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"23f5-LHX4FLb4tRzPqJh5+MBo4hLi1Hk\"",
-		"mtime": "2026-08-29T19:36:05.729Z",
-		"size": 9205,
-		"path": "../public/assets/streha4-B8xTmPXQ.jpg"
+		"etag": "\"1046b-hkzt6jgO9lkjxaH6FsUQzDhTqXE\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 66667,
+		"path": "../public/assets/tendad6-BZcNA1T7.jpg"
 	},
-	"/assets/pergola17-D0ubjJcJ.jpg": {
+	"/assets/rrethim12-BZu7zLFm.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2379e3-wxhOpkks0t+lo8rNoi1VVfN84Pk\"",
-		"mtime": "2026-08-29T19:36:05.643Z",
-		"size": 2324963,
-		"path": "../public/assets/pergola17-D0ubjJcJ.jpg"
+		"etag": "\"15398-GSeRdJ7uZxmJcI+OAFc1kH09zZM\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 86936,
+		"path": "../public/assets/rrethim12-BZu7zLFm.jpg"
 	},
-	"/assets/tendad1-DTlSBVLt.jpg": {
+	"/assets/pergola18-DeAKYffI.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"fcb9-zsucNB8klA3MATfNKh/uvqFp3tY\"",
-		"mtime": "2026-08-29T19:36:05.736Z",
-		"size": 64697,
-		"path": "../public/assets/tendad1-DTlSBVLt.jpg"
+		"etag": "\"1b280-IIMxQ5TuofeAQLEkaecUnA6COk4\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 111232,
+		"path": "../public/assets/pergola18-DeAKYffI.jpg"
 	},
-	"/assets/index-Bt4Pp_QX.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"4a606-nt9iAPuFDceAdzHkKEtMOAhRcis\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 304646,
-		"path": "../public/assets/index-Bt4Pp_QX.js"
-	},
-	"/assets/grila2-DFC1dac7.jpg": {
+	"/assets/grila9-e2haPiPC.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"22ef4-0HD35A38fVMK9cOVxhHg5esW288\"",
-		"mtime": "2026-08-29T19:36:05.627Z",
-		"size": 143092,
-		"path": "../public/assets/grila2-DFC1dac7.jpg"
+		"etag": "\"1336c-0CVLLOcLoaqlrI6tWlFol+TCHq0\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 78700,
+		"path": "../public/assets/grila9-e2haPiPC.jpg"
 	},
-	"/assets/grila12-CLuRqJ1O.jpg": {
+	"/assets/grila-q5hHYd71.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"78101d-0YngwA51KEEiAnYHqLi1xPBoW/I\"",
-		"mtime": "2026-08-29T19:36:05.620Z",
-		"size": 7868445,
-		"path": "../public/assets/grila12-CLuRqJ1O.jpg"
+		"etag": "\"15b22-qWqOoZC3tVVmh2qDluY3JzpJMd4\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 88866,
+		"path": "../public/assets/grila-q5hHYd71.jpg"
 	},
-	"/assets/grila9-DnWPDNJ3.jpg": {
+	"/assets/rrethim11-l3VazyN2.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"24a74d-6+hANipIzfyfeYBWNuCZW/N9LqA\"",
-		"mtime": "2026-08-29T19:36:05.629Z",
-		"size": 2402125,
-		"path": "../public/assets/grila9-DnWPDNJ3.jpg"
+		"etag": "\"11370-2wdT+FaN7fEFp0gZpNSjzxGZ3rY\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 70512,
+		"path": "../public/assets/rrethim11-l3VazyN2.jpg"
 	},
-	"/assets/pergola1-CF2n6mS-.jpg": {
+	"/assets/pergola6-CulxjsJS.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"3f717-lOllgy9dEHUYn1e8gjC2/ph2fU4\"",
-		"mtime": "2026-08-29T19:36:05.641Z",
-		"size": 259863,
-		"path": "../public/assets/pergola1-CF2n6mS-.jpg"
+		"etag": "\"19d98-zaLcQftLBAyMXVSiF2gB7V3UGb4\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 105880,
+		"path": "../public/assets/pergola6-CulxjsJS.jpg"
 	},
-	"/assets/tendad3-COzJWFIn.jpg": {
+	"/assets/qepen5-Bj4_3_8c.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"f65a-PGvosgvjn4WAB49H2YXRFvK0z4c\"",
-		"mtime": "2026-08-29T19:36:05.751Z",
-		"size": 63066,
-		"path": "../public/assets/tendad3-COzJWFIn.jpg"
+		"etag": "\"18e97-W7zo2WOlfl35eFUyIIXzH/stmEc\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 102039,
+		"path": "../public/assets/qepen5-Bj4_3_8c.jpg"
 	},
-	"/assets/rrethim10-DHx7Dyhs.jpg": {
+	"/assets/slide3-BPtcPkBB.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"cc97-l7EHhKeqLMcpDl4DIIW06lFQdSY\"",
-		"mtime": "2026-08-29T19:36:05.683Z",
-		"size": 52375,
-		"path": "../public/assets/rrethim10-DHx7Dyhs.jpg"
+		"etag": "\"f81e-Y+FInVxfLtTUtSL6IphO+BRvUBs\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 63518,
+		"path": "../public/assets/slide3-BPtcPkBB.jpg"
 	},
-	"/assets/auto3-CqQAXW8V.jpg": {
+	"/assets/vetrata5-CFiMP9Wt.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"32d17-g3BkPN54E+LlQPb//wBhRPmWXsM\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 208151,
-		"path": "../public/assets/auto3-CqQAXW8V.jpg"
+		"etag": "\"1851-2QLSTNfvj22I0juu2luWXVJMs7M\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 6225,
+		"path": "../public/assets/vetrata5-CFiMP9Wt.jpg"
 	},
-	"/assets/galeria._id-DX3WAoMs.js": {
-		"type": "text/javascript; charset=utf-8",
-		"etag": "\"5b8-tBR7jo8ryDCPrAU3EvVNl7TkATA\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
-		"size": 1464,
-		"path": "../public/assets/galeria._id-DX3WAoMs.js"
-	},
-	"/assets/pvc1-hwF8bSmu.jpg": {
+	"/assets/rrethim8-CaWDauog.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"aaf9-fzpm3CMIOL7USoKqL3FxzOT3lwU\"",
-		"mtime": "2026-08-29T19:36:05.676Z",
-		"size": 43769,
-		"path": "../public/assets/pvc1-hwF8bSmu.jpg"
+		"etag": "\"c45b-EhbQxzHKrpfeaBG3boVpTXEYQGU\"",
+		"mtime": "2026-08-29T19:53:50.846Z",
+		"size": 50267,
+		"path": "../public/assets/rrethim8-CaWDauog.jpg"
 	},
-	"/assets/punimexh13-CxuuVWC8.jpg": {
+	"/assets/kabina24-DrFy8-Ne.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"23ad9f-1u9uWI1vcMh2v+/hWwGd7vtqSUE\"",
-		"mtime": "2026-08-29T19:36:05.650Z",
-		"size": 2338207,
-		"path": "../public/assets/punimexh13-CxuuVWC8.jpg"
+		"etag": "\"19b82-mv++lZiqvtoJj1Pl+nv/92R94ik\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 105346,
+		"path": "../public/assets/kabina24-DrFy8-Ne.jpg"
 	},
-	"/assets/kabina5-CFAkc3da.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"1319f-/WFwRjuZhjezIdvmCaRUnLE4unk\"",
-		"mtime": "2026-08-29T19:36:05.640Z",
-		"size": 78239,
-		"path": "../public/assets/kabina5-CFAkc3da.jpg"
-	},
-	"/assets/slide4-B_NJA7sa.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"5c4aac-yDwIdoquyyQZQmLqEjLM8jzNTdw\"",
-		"mtime": "2026-08-29T19:36:05.702Z",
-		"size": 6048428,
-		"path": "../public/assets/slide4-B_NJA7sa.jpg"
-	},
-	"/assets/rrethim6-CtJ5Mx-T.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"29ae2-BanbUA4TDsndLXn4LGCUbxtAI50\"",
-		"mtime": "2026-08-29T19:36:05.691Z",
-		"size": 170722,
-		"path": "../public/assets/rrethim6-CtJ5Mx-T.jpg"
-	},
-	"/assets/kabina7-B05YGAtm.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"96abc-lQVaSY365RpIX+0YgGxaKwW2Fcw\"",
-		"mtime": "2026-08-29T19:36:05.640Z",
-		"size": 617148,
-		"path": "../public/assets/kabina7-B05YGAtm.jpg"
-	},
-	"/assets/streha3-9HjLs-hG.jpeg": {
-		"type": "image/jpeg",
-		"etag": "\"38788-t9hZkD16wCtmJCx60AJ29lTbGe8\"",
-		"mtime": "2026-08-29T19:36:05.729Z",
-		"size": 231304,
-		"path": "../public/assets/streha3-9HjLs-hG.jpeg"
-	},
-	"/assets/pergola3-CEuz9fFs.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"6503b-HXCGatbf370On/5YW1wSZ/mG8dw\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 413755,
-		"path": "../public/assets/pergola3-CEuz9fFs.jpg"
-	},
-	"/assets/punimexh2-CnCSZPMj.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"10185-30OWIxKY+7yjASYzboasoBE0EvA\"",
-		"mtime": "2026-08-29T19:36:05.669Z",
-		"size": 65925,
-		"path": "../public/assets/punimexh2-CnCSZPMj.jpg"
-	},
-	"/assets/streha-UtAidleR.jpeg": {
-		"type": "image/jpeg",
-		"etag": "\"27f41-SVBhQhXRGwgGsqL+ZdyAvMKJaCg\"",
-		"mtime": "2026-08-29T19:36:05.720Z",
-		"size": 163649,
-		"path": "../public/assets/streha-UtAidleR.jpeg"
-	},
-	"/assets/kabina2-Dl20eLnq.jpg": {
-		"type": "image/jpeg",
-		"etag": "\"bd8e-cgm2TjrYp9Nr8xEFxCDOAOJUpUs\"",
-		"mtime": "2026-08-29T19:36:05.631Z",
-		"size": 48526,
-		"path": "../public/assets/kabina2-Dl20eLnq.jpg"
-	},
-	"/assets/duralumi3-DiQwC6Ki.png": {
+	"/assets/logo-CKLfQ-lg.png": {
 		"type": "image/png",
-		"etag": "\"1a13c3-SVuW6IHW4fZXSP06v/A1KvgSZ+0\"",
-		"mtime": "2026-08-29T19:36:05.602Z",
-		"size": 1708995,
-		"path": "../public/assets/duralumi3-DiQwC6Ki.png"
+		"etag": "\"379e-Y08WzQe8V1h6+TNE5hpo7b68ay4\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 14238,
+		"path": "../public/assets/logo-CKLfQ-lg.png"
 	},
-	"/assets/tendad9-fdsz2npb.jpg": {
+	"/assets/tendad9-Bc1tFl8d.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"327a2f-wNnQ+Uv0wxB48nPqnIHJmvmS8Nk\"",
-		"mtime": "2026-08-29T19:36:05.756Z",
-		"size": 3308079,
-		"path": "../public/assets/tendad9-fdsz2npb.jpg"
+		"etag": "\"1a88d-3BGHxeucftmsoATZkDKYzvHhr/g\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 108685,
+		"path": "../public/assets/tendad9-Bc1tFl8d.jpg"
 	},
-	"/assets/punimexh9-5iVP5wst.jpg": {
+	"/assets/slide5-a6cR4wGm.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"31d6be-VPtIK8lPPbG9IADCFap2wPp7430\"",
-		"mtime": "2026-08-29T19:36:05.670Z",
-		"size": 3266238,
-		"path": "../public/assets/punimexh9-5iVP5wst.jpg"
+		"etag": "\"22e04-utZqQ/bewgZDP3epqGX4/EjWuWc\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 142852,
+		"path": "../public/assets/slide5-a6cR4wGm.jpg"
 	},
-	"/assets/tendad4-D2NN7tMy.jpg": {
+	"/assets/streha6-lqEZBUIX.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"d141-R5swPP32IpDVmYOgN9iykunGQyM\"",
-		"mtime": "2026-08-29T19:36:05.751Z",
-		"size": 53569,
-		"path": "../public/assets/tendad4-D2NN7tMy.jpg"
+		"etag": "\"113c3-D3/JaDK/Fg0wYOoLzcG6gLdZAr8\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 70595,
+		"path": "../public/assets/streha6-lqEZBUIX.jpg"
 	},
-	"/assets/tendad-BpG7b2V_.jpg": {
+	"/assets/pvc3-Ce3TK-sm.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"14c0a-3QUYBzUAOswXfv5FPx4J1tTX/CQ\"",
-		"mtime": "2026-08-29T19:36:05.736Z",
-		"size": 85002,
-		"path": "../public/assets/tendad-BpG7b2V_.jpg"
+		"etag": "\"72ee-ktTSm72E3vStP5ZIwOGqbnpCzE0\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 29422,
+		"path": "../public/assets/pvc3-Ce3TK-sm.jpg"
 	},
-	"/assets/gijotina5-TCrPjr2f.jpg": {
+	"/assets/streha2-Blduz5fO.jpeg": {
 		"type": "image/jpeg",
-		"etag": "\"210aa-UqG+mlxRrgtaE8mA9+8WQ0bk4xE\"",
-		"mtime": "2026-08-29T19:36:05.616Z",
-		"size": 135338,
-		"path": "../public/assets/gijotina5-TCrPjr2f.jpg"
+		"etag": "\"2254d-NCrqbY2WuHrN679Rlms0/RCx6Pw\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 140621,
+		"path": "../public/assets/streha2-Blduz5fO.jpeg"
 	},
-	"/assets/gijotina11-DAzLZDwp.jpg": {
+	"/assets/grila6-bhlEc2Lg.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"66c584-I1ac7Vyi6lsrTR1h/ax5b5xW8Ms\"",
-		"mtime": "2026-08-29T19:36:05.606Z",
-		"size": 6735236,
-		"path": "../public/assets/gijotina11-DAzLZDwp.jpg"
+		"etag": "\"18cfb-lgrUPMox5dRo2iJoRS9Ncs5eYsM\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 101627,
+		"path": "../public/assets/grila6-bhlEc2Lg.jpg"
 	},
-	"/assets/auto5-Bqmm8XQN.jpg": {
+	"/assets/vetrata8-Cvh15-kV.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"32437-2yZH4bMISmY9nWV4eXsBNnrc9DU\"",
-		"mtime": "2026-08-29T19:36:05.602Z",
-		"size": 205879,
-		"path": "../public/assets/auto5-Bqmm8XQN.jpg"
+		"etag": "\"1934d-sjNtld+em4mIRb2UafMSASFgSlM\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 103245,
+		"path": "../public/assets/vetrata8-Cvh15-kV.jpg"
 	},
-	"/assets/vetrata6-CAuLxngr.jpg": {
+	"/assets/punimexh14-BwIMRMqF.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"e9cb-hWqRSYNslOxD1okYtVFxeuKqa4g\"",
-		"mtime": "2026-08-29T19:36:05.781Z",
-		"size": 59851,
-		"path": "../public/assets/vetrata6-CAuLxngr.jpg"
+		"etag": "\"1bfe5-biGUCPN4wuuWG8HoQ0EHQXkoeMM\"",
+		"mtime": "2026-08-29T19:53:50.843Z",
+		"size": 114661,
+		"path": "../public/assets/punimexh14-BwIMRMqF.jpg"
 	},
-	"/assets/kabina1-CI1ECCbO.jpg": {
+	"/assets/grila11-BwSVbOOE.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2e49a-SPJzdTn0zMVnC1jQUDA/WGaOCdA\"",
-		"mtime": "2026-08-29T19:36:05.631Z",
-		"size": 189594,
-		"path": "../public/assets/kabina1-CI1ECCbO.jpg"
+		"etag": "\"1c37e-CsJT2RnRdSfSAj2plvmgUUx1Sl4\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 115582,
+		"path": "../public/assets/grila11-BwSVbOOE.jpg"
+	},
+	"/assets/streha12-UAcQrKHk.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"28006-skPecK+34Cz/+XLOKfN2BypGBWE\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 163846,
+		"path": "../public/assets/streha12-UAcQrKHk.jpg"
+	},
+	"/assets/punimexh4-7fIdaXfA.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"1d47-4EIWx3fFeYKDq4xKO6uTQF6r2PU\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 7495,
+		"path": "../public/assets/punimexh4-7fIdaXfA.jpg"
+	},
+	"/assets/streha7-DbiXldoY.jpg": {
+		"type": "image/jpeg",
+		"etag": "\"34754-4zw6sidciqBsxRvgZShEO7nexJM\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 214868,
+		"path": "../public/assets/streha7-DbiXldoY.jpg"
 	},
 	"/assets/link-sDQV9wD2.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"8967-w+p3kwpgqtwlhyRkTGKilLrKLOI\"",
-		"mtime": "2026-08-29T19:36:05.601Z",
+		"mtime": "2026-08-29T19:53:50.840Z",
 		"size": 35175,
 		"path": "../public/assets/link-sDQV9wD2.js"
 	},
-	"/assets/vetrata12-D01U18Wt.jpg": {
+	"/assets/gijotina5-xFXthrAa.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2e2e7-8kVo7O/iqOH/mNB38NlSg4Gp1xA\"",
-		"mtime": "2026-08-29T19:36:05.769Z",
-		"size": 189159,
-		"path": "../public/assets/vetrata12-D01U18Wt.jpg"
+		"etag": "\"1bee6-88356OtTD6KCet/X0iQEVjsYMCg\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 114406,
+		"path": "../public/assets/gijotina5-xFXthrAa.jpg"
 	},
-	"/assets/grila-Czq3KyYW.jpg": {
+	"/assets/kabina23-BxVKqDSP.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2e88a-pPr8q/KUegefJt7lsxFZN2vx1VY\"",
-		"mtime": "2026-08-29T19:36:05.617Z",
-		"size": 190602,
-		"path": "../public/assets/grila-Czq3KyYW.jpg"
+		"etag": "\"11737-iMUNU4K00+9HzwbX5vJezdeZi4E\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 71479,
+		"path": "../public/assets/kabina23-BxVKqDSP.jpg"
 	},
-	"/assets/rrethim2-B_LDUyNX.jpg": {
+	"/assets/qepen-CC31v8EE.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1ca33-H6TUEM6nlVPNVsjY1YcmjHHE5no\"",
-		"mtime": "2026-08-29T19:36:05.690Z",
-		"size": 117299,
-		"path": "../public/assets/rrethim2-B_LDUyNX.jpg"
+		"etag": "\"13cf5-QqqPZQiS9BrF2csZedKodlKytls\"",
+		"mtime": "2026-08-29T19:53:50.845Z",
+		"size": 81141,
+		"path": "../public/assets/qepen-CC31v8EE.jpg"
 	},
-	"/assets/rrethim12-reOF_nHQ.jpg": {
+	"/assets/grila13-B0btrkXG.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"15d28-19C3yGwY2u4GkByTLKUN78BBVN0\"",
-		"mtime": "2026-08-29T19:36:05.683Z",
-		"size": 89384,
-		"path": "../public/assets/rrethim12-reOF_nHQ.jpg"
+		"etag": "\"27dfb-6UUjuPcbB07kSzi8ySMkGMrxAdM\"",
+		"mtime": "2026-08-29T19:53:50.841Z",
+		"size": 163323,
+		"path": "../public/assets/grila13-B0btrkXG.jpg"
 	},
-	"/assets/streha7-DQ3ZKtxA.jpg": {
+	"/assets/streha9-CW6_5Gih.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"2ef9ca-GX83kgTRNWY7AYo7PdhORgMGRyg\"",
-		"mtime": "2026-08-29T19:36:05.729Z",
-		"size": 3078602,
-		"path": "../public/assets/streha7-DQ3ZKtxA.jpg"
+		"etag": "\"21fbb-PMzZO9hENC0DrlkG+bEZWcmbBL0\"",
+		"mtime": "2026-08-29T19:53:50.848Z",
+		"size": 139195,
+		"path": "../public/assets/streha9-CW6_5Gih.jpg"
 	},
-	"/assets/punimexh10-Bg94SwR8.jpg": {
+	"/assets/pvc10-Bxmqfpg2.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"325a51-oHur4ZPcsOFzEHMMATtUhKgdhQk\"",
-		"mtime": "2026-08-29T19:36:05.644Z",
-		"size": 3299921,
-		"path": "../public/assets/punimexh10-Bg94SwR8.jpg"
+		"etag": "\"264fd-nnnXql3dVvugtqS89ni96GmSXG8\"",
+		"mtime": "2026-08-29T19:53:50.844Z",
+		"size": 156925,
+		"path": "../public/assets/pvc10-Bxmqfpg2.jpg"
 	},
-	"/assets/tendad5-AKZ9gpJE.jpg": {
+	"/assets/perde2-CMVQA8Y9.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"12ae8-L+x0/92QyOoj5qFL2yuROKb4lXY\"",
-		"mtime": "2026-08-29T19:36:05.751Z",
-		"size": 76520,
-		"path": "../public/assets/tendad5-AKZ9gpJE.jpg"
+		"etag": "\"11c0f-W14QJm7lt3Dd74tEiEv/YNjNfrg\"",
+		"mtime": "2026-08-29T19:53:50.842Z",
+		"size": 72719,
+		"path": "../public/assets/perde2-CMVQA8Y9.jpg"
 	},
-	"/assets/pvc10-D015hgPt.jpg": {
+	"/assets/streha5-sqIk1DIH.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"433d9-2CJXiFOgpyf8uXBHifRIWzGy6VA\"",
-		"mtime": "2026-08-29T19:36:05.676Z",
-		"size": 275417,
-		"path": "../public/assets/pvc10-D015hgPt.jpg"
+		"etag": "\"190b-M25+cxlsgJrHelTQGKBpS8CsWhI\"",
+		"mtime": "2026-08-29T19:53:50.847Z",
+		"size": 6411,
+		"path": "../public/assets/streha5-sqIk1DIH.jpg"
 	},
-	"/assets/pvc14-3aXl_WS2.jpg": {
+	"/assets/galeria._id-Bt1cZ7Xv.js": {
+		"type": "text/javascript; charset=utf-8",
+		"etag": "\"1e1-RLt0iaO4BHD/7nEM5Iw3W4wU0VU\"",
+		"mtime": "2026-08-29T19:53:50.840Z",
+		"size": 481,
+		"path": "../public/assets/galeria._id-Bt1cZ7Xv.js"
+	},
+	"/assets/vetrata9-Oa48qml2.jpg": {
 		"type": "image/jpeg",
-		"etag": "\"1aeda-ZNakmAFkNjeY8ZXYD/bS7IIFF7w\"",
-		"mtime": "2026-08-29T19:36:05.677Z",
-		"size": 110298,
-		"path": "../public/assets/pvc14-3aXl_WS2.jpg"
+		"etag": "\"1a519-LPtHVq+Ui/gzv/FMyVjyxkbNNsk\"",
+		"mtime": "2026-08-29T19:53:50.849Z",
+		"size": 107801,
+		"path": "../public/assets/vetrata9-Oa48qml2.jpg"
 	}
 };
 //#endregion
