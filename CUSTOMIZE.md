@@ -11,8 +11,6 @@ src/data/
 ```
 
 Pas çdo ndryshimi, faqja rifreskohet automatikisht në preview.
-Për të ripaketuar për Netlify: kërkoji AI-t "gjenero dist file të ri".
-
 ---
 
 ## 1) Kontaktet dhe informacioni bazë
@@ -153,12 +151,9 @@ _"ndryshoji ngjyren primare ne #ff0000"_.
 
 ## Pyetje të shpeshta
 
-**Si e ripaketoj për Netlify pas ndryshimeve?**
-Kërko: _"gjenero një dist zip të ri për Netlify"_.
-
 **Si e testoj para se ta publikoj?**
 Preview-i majtas rifreskohet automatikisht sa herë ruan një skedar.
 
 **Ka gabim dhe faqja nuk hapet?**
 Zakonisht është një presje (`,`) ose kllapë e harruar. Kopjo mesazhin e gabimit
-dhe dërgoje te AI — do ta rregullojë menjëherë.
+dhe dërgoje te AI do ta rregullojë menjëherë.
